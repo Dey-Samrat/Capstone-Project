@@ -1,0 +1,741 @@
+Sno,BHK,Property,Beds,Baths,Balcony,Address,City,State,Country,Landmarks
+1,6,Single Family,6,5,1,1867 N Burling Street,Chicago,IL,USA,Lincoln Park
+2,10,Single Family,10,8,1,2026 N Kenmore Avenue,Chicago,IL,USA,Lincoln Park
+3,3,Condominium,3,4,1,"500 W Superior Street, #2703",Chicago,IL,USA,Near North Side
+4,6,Single Family,6,6,1,52 E BELLEVUE Place,Chicago,IL,USA,Near North Side
+5,5,Single Family,5,6,,1970 N Burling Street,Chicago,IL,USA,Lincoln Park
+6,6,Single Family,6,6,1,1521 N State Parkway,Chicago,IL,USA,Near North Side
+7,3,Condominium,3,3,2,"159 E WALTON Place, #31A",Chicago,IL,USA,Near North Side
+8,5,Single Family,5,5,,2325 N Cleveland Avenue,Chicago,IL,USA,Lincoln Park
+9,3,Condominium,3,3,,"159 E Walton Place, #22A",Chicago,IL,USA,Near North Side
+10,4,Condominium,4,4,2,"9 W Walton Street, #2902",Chicago,IL,USA,Near North Side
+11,5,Single Family,5,4,2,1856 N Mohawk Street,Chicago,IL,USA,Lincoln Park
+12,4,Single Family,4,4,1,401 W Dickens Avenue,Chicago,IL,USA,Lincoln Park
+13,6,Single Family,6,5,,362 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+14,9,Single Family,9,13,,10936 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+15,9,Estate,9,13,1,1859 Bel Air Rd,Los Angeles,CA,USA,Los Angeles
+16,6,Single Family,6,6,2,0 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+17,5,Estate,5,8,,1680 N Doheny Dr,Los Angeles,CA,USA,Los Angeles
+18,6,Single Family,6,9,2,615 N Faring Rd,Los Angeles,CA,USA,Los Angeles
+19,5,Single Family,5,6,2,10801 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+20,6,Single Family,6,4,1,1504 N Kenter Ave,Los Angeles,CA,USA,Los Angeles
+21,6,Single Family,6,7,1,1055 Stradella Rd,Los Angeles,CA,USA,Los Angeles
+22,32,multi-unit,32,42,1,2391 Roscomare Rd,Los Angeles,CA,USA,Los Angeles
+23,8,Single Family,8,12,1,10710 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+24,1,Single Family,1,1,2,2125 Puerto Del Mundo,CA,CA,USA,Fallbrook
+25,5,Single Family,5,4,,35 Payne,Portland,CT,USA,Portland
+26,2,Co-op,2,1,,"2440 Amsterdam Avenue, #5N",New York,NY,USA,Washington Heights
+27,6,Single Family,6,4,1,863 Riverside Drive,New York,NY,USA,Washington Heights
+28,4,Co-op,4,4,,"CASTLE VILLAGE, #40/48/49",New York,NY,USA,Hudson Heights
+29,4,Co-op,4,3,1,"140 Cabrini Boulevard 111-112, #111112",New York,NY,USA,Hudson Heights
+30,6,Single Family,6,4,,912 St Nicholas Avenue,New York,NY,USA,Washington Heights
+31,623,,623,,1,"THE RIVIERA, #11G",New York,NY,USA,Washington Heights
+32,15,Villas / Townhouses,15,6,1,546 West 165th Street,New York,NY,USA,Washington Heights
+33,6,Single Family,6,3,1,549 West 187th Street,New York,NY,USA,Washington Heights
+34,2,Single Family,2,2,1,11 Sylvan Terrace,New York,NY,USA,Washington Heights
+35,4,Co-op,4,3,,"800 Riverside Drive 6E, #6E",New York,NY,USA,Washington Heights
+36,623,,623,,,"AMMANN, #PH8A",New York,NY,USA,Hudson Heights
+37,578,Land/Lot,578,,2,5 Red Rock Island,San Francisco,CA,USA,San Francisco
+38,3,Condominium,3,3,2,"338 Spear Street, #35D",San Francisco,CA,USA,San Francisco
+39,2,Condominium,2,2,1,"239 Brannan Street, #10G",San Francisco,CA,USA,San Francisco
+40,2,Condominium,2,1,,211 Cole Street,San Francisco,CA,USA,San Francisco
+41,2,Condominium,2,1,2,209 Cole Street,San Francisco,CA,USA,San Francisco
+42,2,Condominium,2,2,,"72 Townsend Street, #402",San Francisco,CA,USA,San Francisco
+43,3,Single Family,3,2,2,509 Liberty Avenue,Brooklyn,NY,USA,East New York
+44,10,Single Family,10,4,1,321 Milford Street,Brooklyn,NY,USA,East New York
+45,9,Villas / Townhouses,9,6,,619 Emerald Street,Brooklyn,NY,USA,East New York
+46,10,Single Family,10,4,1,750 Glenmore Avenue,Brooklyn,NY,USA,East New York
+47,8,Single Family,8,3,2,297 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+48,6,Single Family,6,3,1,690 Vermont Street,Brooklyn,NY,USA,East New York
+49,7,Single Family,7,3,,427 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+50,4,Single Family,4,3,2,914 Pine Street,Brooklyn,NY,USA,East New York
+51,7,Single Family,7,3,,731 Wyona Street,Brooklyn,NY,USA,East New York
+52,2,Condominium,2,2,,Four Seasons Private Residences Lake Austin,Austin,TX,USA,Lake Austin
+53,1,Condo,1,1,2,"832 W Oakdale Ave Unit 1G,",Chicago,IL,USA,2.5% buyer's agent fee
+54,1,Condo,1,1,2,"819 E 53rd St #3,",Chicago,IL,USA,CHI - Hyde Park
+55,2,Condo,2,2,2,"3944 N Claremont Ave #307,",Chicago,IL,USA,Has A/C
+56,1,Condo,1,1,2,"1030 N State St Unit 41A,",Chicago,IL,USA,In-unit laundry (washer and dryer)
+57,1,Condo,1,15,2,"645 N Kingsbury St #1003,",Chicago,IL,USA,Has A/C
+58,3,Condo,3,2,2,"1159 N Hudson St Unit 1-101,",Chicago,IL,USA,Has A/C
+59,3,Single-family,3,2,2,"6502 34th Ave NW,",Seattle,WA,USA,Sunset Hill
+60,5,Single-family,5,4,2,"106 NW 101st St,",Seattle,WA,USA,Has A/C
+61,1,,1,1,2,"312 W 5th St #507,",Los Angeles,CA,USA,
+62,5,Single-family,5,3,2,"2458 Calle Tortuosa,",San Diego,CA,USA,2% buyer's agent fee
+63,3,Single-family,3,15,2,"15680 SE Wallace Rd,",Milwaukie,OR,USA,"145 - Milwaukie, Gladstone, Happy Valley, Clckmas, Dmscus, Estacada"
+64,2,Townhome,2,25,2,"4264 N Longview Ave,",Portland,OR,USA,OVERLOOK
+65,2,Condo,2,2,2,"1025 1st St SE #915,",Washington,DC,USA,Has A/C
+66,4,Townhome,4,35,2,"1210 Queen St NE #2,",Washington,DC,USA,Has A/C
+67,3,Single-family,3,3,2,"162 Southwood Dr,",San Francisco,CA,USA,
+68,3,Single-family,3,3,2,"219 Ralston St,",San Francisco,CA,USA,SF District 3
+69,3,Single-family,3,2,2,"5878 Macadam Ct,",SAN JOSE,CA,USA,2.5% buyer's agent fee
+70,4,Single-family,4,25,2,"4001 Silver Creek Rd,",SAN JOSE,CA,USA,0.25% buyer's agent fee
+71,2,Condo,2,2,2,"13604 Caldwell Dr #29,",Austin,TX,USA,Has A/C
+72,3,Single-family,3,2,2,"1615 Glencrest Dr,",Austin,TX,USA,In-unit laundry (washer and dryer)
+73,3,Single-family,3,2,2,"10668 Windrose Point Ave,",Las Vegas,NV,USA,Has A/C
+74,4,Single-family,4,3,2,"4617 Ashington St,",Las Vegas,NV,USA,Has A/C
+75,6,Single Family,6,5,1,1867 N Burling Street,Chicago,IL,USA,Lincoln Park
+76,10,Single Family,10,8,1,2026 N Kenmore Avenue,Chicago,IL,USA,Lincoln Park
+77,3,Condominium,3,4,1,"500 W Superior Street, #2703",Chicago,IL,USA,Near North Side
+78,6,Single Family,6,6,1,52 E BELLEVUE Place,Chicago,IL,USA,Near North Side
+79,5,Single Family,5,6,,1970 N Burling Street,Chicago,IL,USA,Lincoln Park
+80,6,Single Family,6,6,1,1521 N State Parkway,Chicago,IL,USA,Near North Side
+81,3,Condominium,3,3,2,"159 E WALTON Place, #31A",Chicago,IL,USA,Near North Side
+82,5,Single Family,5,5,,2325 N Cleveland Avenue,Chicago,IL,USA,Lincoln Park
+83,3,Condominium,3,3,,"159 E Walton Place, #22A",Chicago,IL,USA,Near North Side
+84,4,Condominium,4,4,2,"9 W Walton Street, #2902",Chicago,IL,USA,Near North Side
+85,5,Single Family,5,4,2,1856 N Mohawk Street,Chicago,IL,USA,Lincoln Park
+86,4,Single Family,4,4,1,401 W Dickens Avenue,Chicago,IL,USA,Lincoln Park
+87,6,Single Family,6,5,,362 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+88,9,Single Family,9,13,,10936 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+89,9,Estate,9,13,1,1859 Bel Air Rd,Los Angeles,CA,USA,Los Angeles
+90,6,Single Family,6,6,2,0 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+91,5,Estate,5,8,,1680 N Doheny Dr,Los Angeles,CA,USA,Los Angeles
+92,6,Single Family,6,9,2,615 N Faring Rd,Los Angeles,CA,USA,Los Angeles
+93,5,Single Family,5,6,2,10801 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+94,6,Single Family,6,4,1,1504 N Kenter Ave,Los Angeles,CA,USA,Los Angeles
+95,6,Single Family,6,7,1,1055 Stradella Rd,Los Angeles,CA,USA,Los Angeles
+96,32,multi-unit,32,42,1,2391 Roscomare Rd,Los Angeles,CA,USA,Los Angeles
+97,8,Single Family,8,12,1,10710 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+98,1,Single Family,1,1,2,2125 Puerto Del Mundo,CA,CA,USA,Fallbrook
+99,5,Single Family,5,4,,35 Payne,Portland,CT,USA,Portland
+100,2,Co-op,2,1,,"2440 Amsterdam Avenue, #5N",New York,NY,USA,Washington Heights
+101,6,Single Family,6,4,1,863 Riverside Drive,New York,NY,USA,Washington Heights
+102,4,Co-op,4,4,,"CASTLE VILLAGE, #40/48/49",New York,NY,USA,Hudson Heights
+103,4,Co-op,4,3,1,"140 Cabrini Boulevard 111-112, #111112",New York,NY,USA,Hudson Heights
+104,6,Single Family,6,4,,912 St Nicholas Avenue,New York,NY,USA,Washington Heights
+105,623,,623,,1,"THE RIVIERA, #11G",New York,NY,USA,Washington Heights
+106,15,Villas / Townhouses,15,6,1,546 West 165th Street,New York,NY,USA,Washington Heights
+107,6,Single Family,6,3,1,549 West 187th Street,New York,NY,USA,Washington Heights
+108,2,Single Family,2,2,1,11 Sylvan Terrace,New York,NY,USA,Washington Heights
+109,4,Co-op,4,3,,"800 Riverside Drive 6E, #6E",New York,NY,USA,Washington Heights
+110,623,,623,,,"AMMANN, #PH8A",New York,NY,USA,Hudson Heights
+111,578,Land/Lot,578,,2,5 Red Rock Island,San Francisco,CA,USA,San Francisco
+112,3,Condominium,3,3,2,"338 Spear Street, #35D",San Francisco,CA,USA,San Francisco
+113,2,Condominium,2,2,1,"239 Brannan Street, #10G",San Francisco,CA,USA,San Francisco
+114,2,Condominium,2,1,,211 Cole Street,San Francisco,CA,USA,San Francisco
+115,2,Condominium,2,1,2,209 Cole Street,San Francisco,CA,USA,San Francisco
+116,2,Condominium,2,2,,"72 Townsend Street, #402",San Francisco,CA,USA,San Francisco
+117,3,Single Family,3,2,2,509 Liberty Avenue,Brooklyn,NY,USA,East New York
+118,10,Single Family,10,4,1,321 Milford Street,Brooklyn,NY,USA,East New York
+119,9,Villas / Townhouses,9,6,,619 Emerald Street,Brooklyn,NY,USA,East New York
+120,10,Single Family,10,4,1,750 Glenmore Avenue,Brooklyn,NY,USA,East New York
+121,8,Single Family,8,3,2,297 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+122,6,Single Family,6,3,1,690 Vermont Street,Brooklyn,NY,USA,East New York
+123,7,Single Family,7,3,,427 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+124,4,Single Family,4,3,2,914 Pine Street,Brooklyn,NY,USA,East New York
+125,7,Single Family,7,3,,731 Wyona Street,Brooklyn,NY,USA,East New York
+126,2,Condominium,2,2,,Four Seasons Private Residences Lake Austin,Austin,TX,USA,Lake Austin
+127,1,Condo,1,1,2,"832 W Oakdale Ave Unit 1G,",Chicago,IL,USA,2.5% buyer's agent fee
+128,1,Condo,1,1,2,"819 E 53rd St #3,",Chicago,IL,USA,CHI - Hyde Park
+129,2,Condo,2,2,2,"3944 N Claremont Ave #307,",Chicago,IL,USA,Has A/C
+130,1,Condo,1,1,2,"1030 N State St Unit 41A,",Chicago,IL,USA,In-unit laundry (washer and dryer)
+131,1,Condo,1,15,2,"645 N Kingsbury St #1003,",Chicago,IL,USA,Has A/C
+132,3,Condo,3,2,2,"1159 N Hudson St Unit 1-101,",Chicago,IL,USA,Has A/C
+133,3,Single-family,3,2,2,"6502 34th Ave NW,",Seattle,WA,USA,Sunset Hill
+134,5,Single-family,5,4,2,"106 NW 101st St,",Seattle,WA,USA,Has A/C
+135,1,,1,1,2,"312 W 5th St #507,",Los Angeles,CA,USA,
+136,5,Single-family,5,3,2,"2458 Calle Tortuosa,",San Diego,CA,USA,2% buyer's agent fee
+137,3,Single-family,3,15,2,"15680 SE Wallace Rd,",Milwaukie,OR,USA,"145 - Milwaukie, Gladstone, Happy Valley, Clckmas, Dmscus, Estacada"
+138,2,Townhome,2,25,2,"4264 N Longview Ave,",Portland,OR,USA,OVERLOOK
+139,2,Condo,2,2,2,"1025 1st St SE #915,",Washington,DC,USA,Has A/C
+140,4,Townhome,4,35,2,"1210 Queen St NE #2,",Washington,DC,USA,Has A/C
+141,3,Single-family,3,3,2,"162 Southwood Dr,",San Francisco,CA,USA,
+142,3,Single-family,3,3,2,"219 Ralston St,",San Francisco,CA,USA,SF District 3
+143,3,Single-family,3,2,2,"5878 Macadam Ct,",SAN JOSE,CA,USA,2.5% buyer's agent fee
+144,4,Single-family,4,25,2,"4001 Silver Creek Rd,",SAN JOSE,CA,USA,0.25% buyer's agent fee
+145,2,Condo,2,2,2,"13604 Caldwell Dr #29,",Austin,TX,USA,Has A/C
+146,3,Single-family,3,2,2,"1615 Glencrest Dr,",Austin,TX,USA,In-unit laundry (washer and dryer)
+147,3,Single-family,3,2,2,"10668 Windrose Point Ave,",Las Vegas,NV,USA,Has A/C
+148,4,Single-family,4,3,2,"4617 Ashington St,",Las Vegas,NV,USA,Has A/C
+149,6,Single Family,6,5,1,1867 N Burling Street,Chicago,IL,USA,Lincoln Park
+150,10,Single Family,10,8,1,2026 N Kenmore Avenue,Chicago,IL,USA,Lincoln Park
+151,3,Condominium,3,4,1,"500 W Superior Street, #2703",Chicago,IL,USA,Near North Side
+152,6,Single Family,6,6,1,52 E BELLEVUE Place,Chicago,IL,USA,Near North Side
+153,5,Single Family,5,6,,1970 N Burling Street,Chicago,IL,USA,Lincoln Park
+154,6,Single Family,6,6,1,1521 N State Parkway,Chicago,IL,USA,Near North Side
+155,3,Condominium,3,3,2,"159 E WALTON Place, #31A",Chicago,IL,USA,Near North Side
+156,5,Single Family,5,5,,2325 N Cleveland Avenue,Chicago,IL,USA,Lincoln Park
+157,3,Condominium,3,3,,"159 E Walton Place, #22A",Chicago,IL,USA,Near North Side
+158,4,Condominium,4,4,2,"9 W Walton Street, #2902",Chicago,IL,USA,Near North Side
+159,5,Single Family,5,4,2,1856 N Mohawk Street,Chicago,IL,USA,Lincoln Park
+160,4,Single Family,4,4,1,401 W Dickens Avenue,Chicago,IL,USA,Lincoln Park
+161,6,Single Family,6,5,,362 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+162,9,Single Family,9,13,,10936 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+163,9,Estate,9,13,1,1859 Bel Air Rd,Los Angeles,CA,USA,Los Angeles
+164,6,Single Family,6,6,2,0 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+165,5,Estate,5,8,,1680 N Doheny Dr,Los Angeles,CA,USA,Los Angeles
+166,6,Single Family,6,9,2,615 N Faring Rd,Los Angeles,CA,USA,Los Angeles
+167,5,Single Family,5,6,2,10801 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+168,6,Single Family,6,4,1,1504 N Kenter Ave,Los Angeles,CA,USA,Los Angeles
+169,6,Single Family,6,7,1,1055 Stradella Rd,Los Angeles,CA,USA,Los Angeles
+170,32,multi-unit,32,42,1,2391 Roscomare Rd,Los Angeles,CA,USA,Los Angeles
+171,8,Single Family,8,12,1,10710 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+172,1,Single Family,1,1,2,2125 Puerto Del Mundo,CA,CA,USA,Fallbrook
+173,5,Single Family,5,4,,35 Payne,Portland,CT,USA,Portland
+174,2,Co-op,2,1,,"2440 Amsterdam Avenue, #5N",New York,NY,USA,Washington Heights
+175,6,Single Family,6,4,1,863 Riverside Drive,New York,NY,USA,Washington Heights
+176,4,Co-op,4,4,,"CASTLE VILLAGE, #40/48/49",New York,NY,USA,Hudson Heights
+177,4,Co-op,4,3,1,"140 Cabrini Boulevard 111-112, #111112",New York,NY,USA,Hudson Heights
+178,6,Single Family,6,4,,912 St Nicholas Avenue,New York,NY,USA,Washington Heights
+179,623,,623,,1,"THE RIVIERA, #11G",New York,NY,USA,Washington Heights
+180,15,Villas / Townhouses,15,6,1,546 West 165th Street,New York,NY,USA,Washington Heights
+181,6,Single Family,6,3,1,549 West 187th Street,New York,NY,USA,Washington Heights
+182,2,Single Family,2,2,1,11 Sylvan Terrace,New York,NY,USA,Washington Heights
+183,4,Co-op,4,3,,"800 Riverside Drive 6E, #6E",New York,NY,USA,Washington Heights
+184,623,,623,,,"AMMANN, #PH8A",New York,NY,USA,Hudson Heights
+185,578,Land/Lot,578,,2,5 Red Rock Island,San Francisco,CA,USA,San Francisco
+186,3,Condominium,3,3,2,"338 Spear Street, #35D",San Francisco,CA,USA,San Francisco
+187,2,Condominium,2,2,1,"239 Brannan Street, #10G",San Francisco,CA,USA,San Francisco
+188,2,Condominium,2,1,,211 Cole Street,San Francisco,CA,USA,San Francisco
+189,2,Condominium,2,1,2,209 Cole Street,San Francisco,CA,USA,San Francisco
+190,2,Condominium,2,2,,"72 Townsend Street, #402",San Francisco,CA,USA,San Francisco
+191,3,Single Family,3,2,2,509 Liberty Avenue,Brooklyn,NY,USA,East New York
+192,10,Single Family,10,4,1,321 Milford Street,Brooklyn,NY,USA,East New York
+193,9,Villas / Townhouses,9,6,,619 Emerald Street,Brooklyn,NY,USA,East New York
+194,10,Single Family,10,4,1,750 Glenmore Avenue,Brooklyn,NY,USA,East New York
+195,8,Single Family,8,3,2,297 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+196,6,Single Family,6,3,1,690 Vermont Street,Brooklyn,NY,USA,East New York
+197,7,Single Family,7,3,,427 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+198,4,Single Family,4,3,2,914 Pine Street,Brooklyn,NY,USA,East New York
+199,7,Single Family,7,3,,731 Wyona Street,Brooklyn,NY,USA,East New York
+200,2,Condominium,2,2,,Four Seasons Private Residences Lake Austin,Austin,TX,USA,Lake Austin
+201,1,Condo,1,1,2,"832 W Oakdale Ave Unit 1G,",Chicago,IL,USA,2.5% buyer's agent fee
+202,1,Condo,1,1,2,"819 E 53rd St #3,",Chicago,IL,USA,CHI - Hyde Park
+203,2,Condo,2,2,2,"3944 N Claremont Ave #307,",Chicago,IL,USA,Has A/C
+204,1,Condo,1,1,2,"1030 N State St Unit 41A,",Chicago,IL,USA,In-unit laundry (washer and dryer)
+205,1,Condo,1,15,2,"645 N Kingsbury St #1003,",Chicago,IL,USA,Has A/C
+206,3,Condo,3,2,2,"1159 N Hudson St Unit 1-101,",Chicago,IL,USA,Has A/C
+207,3,Single-family,3,2,2,"6502 34th Ave NW,",Seattle,WA,USA,Sunset Hill
+208,5,Single-family,5,4,2,"106 NW 101st St,",Seattle,WA,USA,Has A/C
+209,1,,1,1,2,"312 W 5th St #507,",Los Angeles,CA,USA,
+210,5,Single-family,5,3,2,"2458 Calle Tortuosa,",San Diego,CA,USA,2% buyer's agent fee
+211,3,Single-family,3,15,2,"15680 SE Wallace Rd,",Milwaukie,OR,USA,"145 - Milwaukie, Gladstone, Happy Valley, Clckmas, Dmscus, Estacada"
+212,2,Townhome,2,25,2,"4264 N Longview Ave,",Portland,OR,USA,OVERLOOK
+213,2,Condo,2,2,2,"1025 1st St SE #915,",Washington,DC,USA,Has A/C
+214,4,Townhome,4,35,2,"1210 Queen St NE #2,",Washington,DC,USA,Has A/C
+215,3,Single-family,3,3,2,"162 Southwood Dr,",San Francisco,CA,USA,
+216,3,Single-family,3,3,2,"219 Ralston St,",San Francisco,CA,USA,SF District 3
+217,3,Single-family,3,2,2,"5878 Macadam Ct,",SAN JOSE,CA,USA,2.5% buyer's agent fee
+218,4,Single-family,4,25,2,"4001 Silver Creek Rd,",SAN JOSE,CA,USA,0.25% buyer's agent fee
+219,2,Condo,2,2,2,"13604 Caldwell Dr #29,",Austin,TX,USA,Has A/C
+220,3,Single-family,3,2,2,"1615 Glencrest Dr,",Austin,TX,USA,In-unit laundry (washer and dryer)
+221,3,Single-family,3,2,2,"10668 Windrose Point Ave,",Las Vegas,NV,USA,Has A/C
+222,4,Single-family,4,3,2,"4617 Ashington St,",Las Vegas,NV,USA,Has A/C
+223,6,Single Family,6,5,1,1867 N Burling Street,Chicago,IL,USA,Lincoln Park
+224,10,Single Family,10,8,1,2026 N Kenmore Avenue,Chicago,IL,USA,Lincoln Park
+225,3,Condominium,3,4,1,"500 W Superior Street, #2703",Chicago,IL,USA,Near North Side
+226,6,Single Family,6,6,1,52 E BELLEVUE Place,Chicago,IL,USA,Near North Side
+227,5,Single Family,5,6,,1970 N Burling Street,Chicago,IL,USA,Lincoln Park
+228,6,Single Family,6,6,1,1521 N State Parkway,Chicago,IL,USA,Near North Side
+229,3,Condominium,3,3,2,"159 E WALTON Place, #31A",Chicago,IL,USA,Near North Side
+230,5,Single Family,5,5,,2325 N Cleveland Avenue,Chicago,IL,USA,Lincoln Park
+231,3,Condominium,3,3,,"159 E Walton Place, #22A",Chicago,IL,USA,Near North Side
+232,4,Condominium,4,4,2,"9 W Walton Street, #2902",Chicago,IL,USA,Near North Side
+233,5,Single Family,5,4,2,1856 N Mohawk Street,Chicago,IL,USA,Lincoln Park
+234,4,Single Family,4,4,1,401 W Dickens Avenue,Chicago,IL,USA,Lincoln Park
+235,6,Single Family,6,5,,362 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+236,9,Single Family,9,13,,10936 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+237,9,Estate,9,13,1,1859 Bel Air Rd,Los Angeles,CA,USA,Los Angeles
+238,6,Single Family,6,6,2,0 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+239,5,Estate,5,8,,1680 N Doheny Dr,Los Angeles,CA,USA,Los Angeles
+240,6,Single Family,6,9,2,615 N Faring Rd,Los Angeles,CA,USA,Los Angeles
+241,5,Single Family,5,6,2,10801 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+242,6,Single Family,6,4,1,1504 N Kenter Ave,Los Angeles,CA,USA,Los Angeles
+243,6,Single Family,6,7,1,1055 Stradella Rd,Los Angeles,CA,USA,Los Angeles
+244,32,multi-unit,32,42,1,2391 Roscomare Rd,Los Angeles,CA,USA,Los Angeles
+245,8,Single Family,8,12,1,10710 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+246,1,Single Family,1,1,2,2125 Puerto Del Mundo,CA,CA,USA,Fallbrook
+247,5,Single Family,5,4,,35 Payne,Portland,CT,USA,Portland
+248,2,Co-op,2,1,,"2440 Amsterdam Avenue, #5N",New York,NY,USA,Washington Heights
+249,6,Single Family,6,4,1,863 Riverside Drive,New York,NY,USA,Washington Heights
+250,4,Co-op,4,4,,"CASTLE VILLAGE, #40/48/49",New York,NY,USA,Hudson Heights
+251,4,Co-op,4,3,1,"140 Cabrini Boulevard 111-112, #111112",New York,NY,USA,Hudson Heights
+252,6,Single Family,6,4,,912 St Nicholas Avenue,New York,NY,USA,Washington Heights
+253,623,,623,,1,"THE RIVIERA, #11G",New York,NY,USA,Washington Heights
+254,15,Villas / Townhouses,15,6,1,546 West 165th Street,New York,NY,USA,Washington Heights
+255,6,Single Family,6,3,1,549 West 187th Street,New York,NY,USA,Washington Heights
+256,2,Single Family,2,2,1,11 Sylvan Terrace,New York,NY,USA,Washington Heights
+257,4,Co-op,4,3,,"800 Riverside Drive 6E, #6E",New York,NY,USA,Washington Heights
+258,623,,623,,,"AMMANN, #PH8A",New York,NY,USA,Hudson Heights
+259,578,Land/Lot,578,,2,5 Red Rock Island,San Francisco,CA,USA,San Francisco
+260,3,Condominium,3,3,2,"338 Spear Street, #35D",San Francisco,CA,USA,San Francisco
+261,2,Condominium,2,2,1,"239 Brannan Street, #10G",San Francisco,CA,USA,San Francisco
+262,2,Condominium,2,1,,211 Cole Street,San Francisco,CA,USA,San Francisco
+263,2,Condominium,2,1,2,209 Cole Street,San Francisco,CA,USA,San Francisco
+264,2,Condominium,2,2,,"72 Townsend Street, #402",San Francisco,CA,USA,San Francisco
+265,3,Single Family,3,2,2,509 Liberty Avenue,Brooklyn,NY,USA,East New York
+266,10,Single Family,10,4,1,321 Milford Street,Brooklyn,NY,USA,East New York
+267,9,Villas / Townhouses,9,6,,619 Emerald Street,Brooklyn,NY,USA,East New York
+268,10,Single Family,10,4,1,750 Glenmore Avenue,Brooklyn,NY,USA,East New York
+269,8,Single Family,8,3,2,297 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+270,6,Single Family,6,3,1,690 Vermont Street,Brooklyn,NY,USA,East New York
+271,7,Single Family,7,3,,427 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+272,4,Single Family,4,3,2,914 Pine Street,Brooklyn,NY,USA,East New York
+273,7,Single Family,7,3,,731 Wyona Street,Brooklyn,NY,USA,East New York
+274,2,Condominium,2,2,,Four Seasons Private Residences Lake Austin,Austin,TX,USA,Lake Austin
+275,1,Condo,1,1,2,"832 W Oakdale Ave Unit 1G,",Chicago,IL,USA,2.5% buyer's agent fee
+276,1,Condo,1,1,2,"819 E 53rd St #3,",Chicago,IL,USA,CHI - Hyde Park
+277,2,Condo,2,2,2,"3944 N Claremont Ave #307,",Chicago,IL,USA,Has A/C
+278,1,Condo,1,1,2,"1030 N State St Unit 41A,",Chicago,IL,USA,In-unit laundry (washer and dryer)
+279,1,Condo,1,15,2,"645 N Kingsbury St #1003,",Chicago,IL,USA,Has A/C
+280,3,Condo,3,2,2,"1159 N Hudson St Unit 1-101,",Chicago,IL,USA,Has A/C
+281,3,Single-family,3,2,2,"6502 34th Ave NW,",Seattle,WA,USA,Sunset Hill
+282,5,Single-family,5,4,2,"106 NW 101st St,",Seattle,WA,USA,Has A/C
+283,1,,1,1,2,"312 W 5th St #507,",Los Angeles,CA,USA,
+284,5,Single-family,5,3,2,"2458 Calle Tortuosa,",San Diego,CA,USA,2% buyer's agent fee
+285,3,Single-family,3,15,2,"15680 SE Wallace Rd,",Milwaukie,OR,USA,"145 - Milwaukie, Gladstone, Happy Valley, Clckmas, Dmscus, Estacada"
+286,2,Townhome,2,25,2,"4264 N Longview Ave,",Portland,OR,USA,OVERLOOK
+287,2,Condo,2,2,2,"1025 1st St SE #915,",Washington,DC,USA,Has A/C
+288,4,Townhome,4,35,2,"1210 Queen St NE #2,",Washington,DC,USA,Has A/C
+289,3,Single-family,3,3,2,"162 Southwood Dr,",San Francisco,CA,USA,
+290,3,Single-family,3,3,2,"219 Ralston St,",San Francisco,CA,USA,SF District 3
+291,3,Single-family,3,2,2,"5878 Macadam Ct,",SAN JOSE,CA,USA,2.5% buyer's agent fee
+292,4,Single-family,4,25,2,"4001 Silver Creek Rd,",SAN JOSE,CA,USA,0.25% buyer's agent fee
+293,2,Condo,2,2,2,"13604 Caldwell Dr #29,",Austin,TX,USA,Has A/C
+294,3,Single-family,3,2,2,"1615 Glencrest Dr,",Austin,TX,USA,In-unit laundry (washer and dryer)
+295,3,Single-family,3,2,2,"10668 Windrose Point Ave,",Las Vegas,NV,USA,Has A/C
+296,4,Single-family,4,3,2,"4617 Ashington St,",Las Vegas,NV,USA,Has A/C
+297,6,Single Family,6,5,1,1867 N Burling Street,Chicago,IL,USA,Lincoln Park
+298,10,Single Family,10,8,1,2026 N Kenmore Avenue,Chicago,IL,USA,Lincoln Park
+299,3,Condominium,3,4,1,"500 W Superior Street, #2703",Chicago,IL,USA,Near North Side
+300,6,Single Family,6,6,1,52 E BELLEVUE Place,Chicago,IL,USA,Near North Side
+301,5,Single Family,5,6,,1970 N Burling Street,Chicago,IL,USA,Lincoln Park
+302,6,Single Family,6,6,1,1521 N State Parkway,Chicago,IL,USA,Near North Side
+303,3,Condominium,3,3,2,"159 E WALTON Place, #31A",Chicago,IL,USA,Near North Side
+304,5,Single Family,5,5,,2325 N Cleveland Avenue,Chicago,IL,USA,Lincoln Park
+305,3,Condominium,3,3,,"159 E Walton Place, #22A",Chicago,IL,USA,Near North Side
+306,4,Condominium,4,4,2,"9 W Walton Street, #2902",Chicago,IL,USA,Near North Side
+307,5,Single Family,5,4,2,1856 N Mohawk Street,Chicago,IL,USA,Lincoln Park
+308,4,Single Family,4,4,1,401 W Dickens Avenue,Chicago,IL,USA,Lincoln Park
+309,6,Single Family,6,5,,362 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+310,9,Single Family,9,13,,10936 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+311,9,Estate,9,13,1,1859 Bel Air Rd,Los Angeles,CA,USA,Los Angeles
+312,6,Single Family,6,6,2,0 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+313,5,Estate,5,8,,1680 N Doheny Dr,Los Angeles,CA,USA,Los Angeles
+314,6,Single Family,6,9,2,615 N Faring Rd,Los Angeles,CA,USA,Los Angeles
+315,5,Single Family,5,6,2,10801 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+316,6,Single Family,6,4,1,1504 N Kenter Ave,Los Angeles,CA,USA,Los Angeles
+317,6,Single Family,6,7,1,1055 Stradella Rd,Los Angeles,CA,USA,Los Angeles
+318,32,multi-unit,32,42,1,2391 Roscomare Rd,Los Angeles,CA,USA,Los Angeles
+319,8,Single Family,8,12,1,10710 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+320,1,Single Family,1,1,2,2125 Puerto Del Mundo,CA,CA,USA,Fallbrook
+321,5,Single Family,5,4,,35 Payne,Portland,CT,USA,Portland
+322,2,Co-op,2,1,,"2440 Amsterdam Avenue, #5N",New York,NY,USA,Washington Heights
+323,6,Single Family,6,4,1,863 Riverside Drive,New York,NY,USA,Washington Heights
+324,4,Co-op,4,4,,"CASTLE VILLAGE, #40/48/49",New York,NY,USA,Hudson Heights
+325,4,Co-op,4,3,1,"140 Cabrini Boulevard 111-112, #111112",New York,NY,USA,Hudson Heights
+326,6,Single Family,6,4,,912 St Nicholas Avenue,New York,NY,USA,Washington Heights
+327,623,,623,,1,"THE RIVIERA, #11G",New York,NY,USA,Washington Heights
+328,15,Villas / Townhouses,15,6,1,546 West 165th Street,New York,NY,USA,Washington Heights
+329,6,Single Family,6,3,1,549 West 187th Street,New York,NY,USA,Washington Heights
+330,2,Single Family,2,2,1,11 Sylvan Terrace,New York,NY,USA,Washington Heights
+331,4,Co-op,4,3,,"800 Riverside Drive 6E, #6E",New York,NY,USA,Washington Heights
+332,623,,623,,,"AMMANN, #PH8A",New York,NY,USA,Hudson Heights
+333,578,Land/Lot,578,,2,5 Red Rock Island,San Francisco,CA,USA,San Francisco
+334,3,Condominium,3,3,2,"338 Spear Street, #35D",San Francisco,CA,USA,San Francisco
+335,2,Condominium,2,2,1,"239 Brannan Street, #10G",San Francisco,CA,USA,San Francisco
+336,2,Condominium,2,1,,211 Cole Street,San Francisco,CA,USA,San Francisco
+337,2,Condominium,2,1,2,209 Cole Street,San Francisco,CA,USA,San Francisco
+338,2,Condominium,2,2,,"72 Townsend Street, #402",San Francisco,CA,USA,San Francisco
+339,3,Single Family,3,2,2,509 Liberty Avenue,Brooklyn,NY,USA,East New York
+340,10,Single Family,10,4,1,321 Milford Street,Brooklyn,NY,USA,East New York
+341,9,Villas / Townhouses,9,6,,619 Emerald Street,Brooklyn,NY,USA,East New York
+342,10,Single Family,10,4,1,750 Glenmore Avenue,Brooklyn,NY,USA,East New York
+343,8,Single Family,8,3,2,297 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+344,6,Single Family,6,3,1,690 Vermont Street,Brooklyn,NY,USA,East New York
+345,7,Single Family,7,3,,427 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+346,4,Single Family,4,3,2,914 Pine Street,Brooklyn,NY,USA,East New York
+347,7,Single Family,7,3,,731 Wyona Street,Brooklyn,NY,USA,East New York
+348,2,Condominium,2,2,,Four Seasons Private Residences Lake Austin,Austin,TX,USA,Lake Austin
+349,1,Condo,1,1,2,"832 W Oakdale Ave Unit 1G,",Chicago,IL,USA,2.5% buyer's agent fee
+350,1,Condo,1,1,2,"819 E 53rd St #3,",Chicago,IL,USA,CHI - Hyde Park
+351,2,Condo,2,2,2,"3944 N Claremont Ave #307,",Chicago,IL,USA,Has A/C
+352,1,Condo,1,1,2,"1030 N State St Unit 41A,",Chicago,IL,USA,In-unit laundry (washer and dryer)
+353,1,Condo,1,15,2,"645 N Kingsbury St #1003,",Chicago,IL,USA,Has A/C
+354,3,Condo,3,2,2,"1159 N Hudson St Unit 1-101,",Chicago,IL,USA,Has A/C
+355,3,Single-family,3,2,2,"6502 34th Ave NW,",Seattle,WA,USA,Sunset Hill
+356,5,Single-family,5,4,2,"106 NW 101st St,",Seattle,WA,USA,Has A/C
+357,1,,1,1,2,"312 W 5th St #507,",Los Angeles,CA,USA,
+358,5,Single-family,5,3,2,"2458 Calle Tortuosa,",San Diego,CA,USA,2% buyer's agent fee
+359,3,Single-family,3,15,2,"15680 SE Wallace Rd,",Milwaukie,OR,USA,"145 - Milwaukie, Gladstone, Happy Valley, Clckmas, Dmscus, Estacada"
+360,2,Townhome,2,25,2,"4264 N Longview Ave,",Portland,OR,USA,OVERLOOK
+361,2,Condo,2,2,2,"1025 1st St SE #915,",Washington,DC,USA,Has A/C
+362,4,Townhome,4,35,2,"1210 Queen St NE #2,",Washington,DC,USA,Has A/C
+363,3,Single-family,3,3,2,"162 Southwood Dr,",San Francisco,CA,USA,
+364,3,Single-family,3,3,2,"219 Ralston St,",San Francisco,CA,USA,SF District 3
+365,3,Single-family,3,2,2,"5878 Macadam Ct,",SAN JOSE,CA,USA,2.5% buyer's agent fee
+366,4,Single-family,4,25,2,"4001 Silver Creek Rd,",SAN JOSE,CA,USA,0.25% buyer's agent fee
+367,2,Condo,2,2,2,"13604 Caldwell Dr #29,",Austin,TX,USA,Has A/C
+368,3,Single-family,3,2,2,"1615 Glencrest Dr,",Austin,TX,USA,In-unit laundry (washer and dryer)
+369,3,Single-family,3,2,2,"10668 Windrose Point Ave,",Las Vegas,NV,USA,Has A/C
+370,4,Single-family,4,3,2,"4617 Ashington St,",Las Vegas,NV,USA,Has A/C
+371,6,Single Family,6,5,1,1867 N Burling Street,Chicago,IL,USA,Lincoln Park
+372,10,Single Family,10,8,1,2026 N Kenmore Avenue,Chicago,IL,USA,Lincoln Park
+373,3,Condominium,3,4,1,"500 W Superior Street, #2703",Chicago,IL,USA,Near North Side
+374,6,Single Family,6,6,1,52 E BELLEVUE Place,Chicago,IL,USA,Near North Side
+375,5,Single Family,5,6,,1970 N Burling Street,Chicago,IL,USA,Lincoln Park
+376,6,Single Family,6,6,1,1521 N State Parkway,Chicago,IL,USA,Near North Side
+377,3,Condominium,3,3,2,"159 E WALTON Place, #31A",Chicago,IL,USA,Near North Side
+378,5,Single Family,5,5,,2325 N Cleveland Avenue,Chicago,IL,USA,Lincoln Park
+379,3,Condominium,3,3,,"159 E Walton Place, #22A",Chicago,IL,USA,Near North Side
+380,4,Condominium,4,4,2,"9 W Walton Street, #2902",Chicago,IL,USA,Near North Side
+381,5,Single Family,5,4,2,1856 N Mohawk Street,Chicago,IL,USA,Lincoln Park
+382,4,Single Family,4,4,1,401 W Dickens Avenue,Chicago,IL,USA,Lincoln Park
+383,6,Single Family,6,5,,362 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+384,9,Single Family,9,13,,10936 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+385,9,Estate,9,13,1,1859 Bel Air Rd,Los Angeles,CA,USA,Los Angeles
+386,6,Single Family,6,6,2,0 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+387,5,Estate,5,8,,1680 N Doheny Dr,Los Angeles,CA,USA,Los Angeles
+388,6,Single Family,6,9,2,615 N Faring Rd,Los Angeles,CA,USA,Los Angeles
+389,5,Single Family,5,6,2,10801 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+390,6,Single Family,6,4,1,1504 N Kenter Ave,Los Angeles,CA,USA,Los Angeles
+391,6,Single Family,6,7,1,1055 Stradella Rd,Los Angeles,CA,USA,Los Angeles
+392,32,multi-unit,32,42,1,2391 Roscomare Rd,Los Angeles,CA,USA,Los Angeles
+393,8,Single Family,8,12,1,10710 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+394,1,Single Family,1,1,2,2125 Puerto Del Mundo,CA,CA,USA,Fallbrook
+395,5,Single Family,5,4,,35 Payne,Portland,CT,USA,Portland
+396,2,Co-op,2,1,,"2440 Amsterdam Avenue, #5N",New York,NY,USA,Washington Heights
+397,6,Single Family,6,4,1,863 Riverside Drive,New York,NY,USA,Washington Heights
+398,4,Co-op,4,4,,"CASTLE VILLAGE, #40/48/49",New York,NY,USA,Hudson Heights
+399,4,Co-op,4,3,1,"140 Cabrini Boulevard 111-112, #111112",New York,NY,USA,Hudson Heights
+400,6,Single Family,6,4,,912 St Nicholas Avenue,New York,NY,USA,Washington Heights
+401,623,,623,,1,"THE RIVIERA, #11G",New York,NY,USA,Washington Heights
+402,15,Villas / Townhouses,15,6,1,546 West 165th Street,New York,NY,USA,Washington Heights
+403,6,Single Family,6,3,1,549 West 187th Street,New York,NY,USA,Washington Heights
+404,2,Single Family,2,2,1,11 Sylvan Terrace,New York,NY,USA,Washington Heights
+405,4,Co-op,4,3,,"800 Riverside Drive 6E, #6E",New York,NY,USA,Washington Heights
+406,623,,623,,,"AMMANN, #PH8A",New York,NY,USA,Hudson Heights
+407,578,Land/Lot,578,,2,5 Red Rock Island,San Francisco,CA,USA,San Francisco
+408,3,Condominium,3,3,2,"338 Spear Street, #35D",San Francisco,CA,USA,San Francisco
+409,2,Condominium,2,2,1,"239 Brannan Street, #10G",San Francisco,CA,USA,San Francisco
+410,2,Condominium,2,1,,211 Cole Street,San Francisco,CA,USA,San Francisco
+411,2,Condominium,2,1,2,209 Cole Street,San Francisco,CA,USA,San Francisco
+412,2,Condominium,2,2,,"72 Townsend Street, #402",San Francisco,CA,USA,San Francisco
+413,3,Single Family,3,2,2,509 Liberty Avenue,Brooklyn,NY,USA,East New York
+414,10,Single Family,10,4,1,321 Milford Street,Brooklyn,NY,USA,East New York
+415,9,Villas / Townhouses,9,6,,619 Emerald Street,Brooklyn,NY,USA,East New York
+416,10,Single Family,10,4,1,750 Glenmore Avenue,Brooklyn,NY,USA,East New York
+417,8,Single Family,8,3,2,297 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+418,6,Single Family,6,3,1,690 Vermont Street,Brooklyn,NY,USA,East New York
+419,7,Single Family,7,3,,427 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+420,4,Single Family,4,3,2,914 Pine Street,Brooklyn,NY,USA,East New York
+421,7,Single Family,7,3,,731 Wyona Street,Brooklyn,NY,USA,East New York
+422,2,Condominium,2,2,,Four Seasons Private Residences Lake Austin,Austin,TX,USA,Lake Austin
+423,1,Condo,1,1,2,"832 W Oakdale Ave Unit 1G,",Chicago,IL,USA,2.5% buyer's agent fee
+424,1,Condo,1,1,2,"819 E 53rd St #3,",Chicago,IL,USA,CHI - Hyde Park
+425,2,Condo,2,2,2,"3944 N Claremont Ave #307,",Chicago,IL,USA,Has A/C
+426,1,Condo,1,1,2,"1030 N State St Unit 41A,",Chicago,IL,USA,In-unit laundry (washer and dryer)
+427,1,Condo,1,15,2,"645 N Kingsbury St #1003,",Chicago,IL,USA,Has A/C
+428,3,Condo,3,2,2,"1159 N Hudson St Unit 1-101,",Chicago,IL,USA,Has A/C
+429,3,Single-family,3,2,2,"6502 34th Ave NW,",Seattle,WA,USA,Sunset Hill
+430,5,Single-family,5,4,2,"106 NW 101st St,",Seattle,WA,USA,Has A/C
+431,1,,1,1,2,"312 W 5th St #507,",Los Angeles,CA,USA,
+432,5,Single-family,5,3,2,"2458 Calle Tortuosa,",San Diego,CA,USA,2% buyer's agent fee
+433,3,Single-family,3,15,2,"15680 SE Wallace Rd,",Milwaukie,OR,USA,"145 - Milwaukie, Gladstone, Happy Valley, Clckmas, Dmscus, Estacada"
+434,2,Townhome,2,25,2,"4264 N Longview Ave,",Portland,OR,USA,OVERLOOK
+435,2,Condo,2,2,2,"1025 1st St SE #915,",Washington,DC,USA,Has A/C
+436,4,Townhome,4,35,2,"1210 Queen St NE #2,",Washington,DC,USA,Has A/C
+437,3,Single-family,3,3,2,"162 Southwood Dr,",San Francisco,CA,USA,
+438,3,Single-family,3,3,2,"219 Ralston St,",San Francisco,CA,USA,SF District 3
+439,3,Single-family,3,2,2,"5878 Macadam Ct,",SAN JOSE,CA,USA,2.5% buyer's agent fee
+440,4,Single-family,4,25,2,"4001 Silver Creek Rd,",SAN JOSE,CA,USA,0.25% buyer's agent fee
+441,2,Condo,2,2,2,"13604 Caldwell Dr #29,",Austin,TX,USA,Has A/C
+442,3,Single-family,3,2,2,"1615 Glencrest Dr,",Austin,TX,USA,In-unit laundry (washer and dryer)
+443,3,Single-family,3,2,2,"10668 Windrose Point Ave,",Las Vegas,NV,USA,Has A/C
+444,4,Single-family,4,3,2,"4617 Ashington St,",Las Vegas,NV,USA,Has A/C
+445,6,Single Family,6,5,1,1867 N Burling Street,Chicago,IL,USA,Lincoln Park
+446,10,Single Family,10,8,1,2026 N Kenmore Avenue,Chicago,IL,USA,Lincoln Park
+447,3,Condominium,3,4,1,"500 W Superior Street, #2703",Chicago,IL,USA,Near North Side
+448,6,Single Family,6,6,1,52 E BELLEVUE Place,Chicago,IL,USA,Near North Side
+449,5,Single Family,5,6,,1970 N Burling Street,Chicago,IL,USA,Lincoln Park
+450,6,Single Family,6,6,1,1521 N State Parkway,Chicago,IL,USA,Near North Side
+451,3,Condominium,3,3,2,"159 E WALTON Place, #31A",Chicago,IL,USA,Near North Side
+452,5,Single Family,5,5,,2325 N Cleveland Avenue,Chicago,IL,USA,Lincoln Park
+453,3,Condominium,3,3,,"159 E Walton Place, #22A",Chicago,IL,USA,Near North Side
+454,4,Condominium,4,4,2,"9 W Walton Street, #2902",Chicago,IL,USA,Near North Side
+455,5,Single Family,5,4,2,1856 N Mohawk Street,Chicago,IL,USA,Lincoln Park
+456,4,Single Family,4,4,1,401 W Dickens Avenue,Chicago,IL,USA,Lincoln Park
+457,6,Single Family,6,5,,362 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+458,9,Single Family,9,13,,10936 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+459,9,Estate,9,13,1,1859 Bel Air Rd,Los Angeles,CA,USA,Los Angeles
+460,6,Single Family,6,6,2,0 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+461,5,Estate,5,8,,1680 N Doheny Dr,Los Angeles,CA,USA,Los Angeles
+462,6,Single Family,6,9,2,615 N Faring Rd,Los Angeles,CA,USA,Los Angeles
+463,5,Single Family,5,6,2,10801 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+464,6,Single Family,6,4,1,1504 N Kenter Ave,Los Angeles,CA,USA,Los Angeles
+465,6,Single Family,6,7,1,1055 Stradella Rd,Los Angeles,CA,USA,Los Angeles
+466,32,multi-unit,32,42,1,2391 Roscomare Rd,Los Angeles,CA,USA,Los Angeles
+467,8,Single Family,8,12,1,10710 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+468,1,Single Family,1,1,2,2125 Puerto Del Mundo,CA,CA,USA,Fallbrook
+469,5,Single Family,5,4,,35 Payne,Portland,CT,USA,Portland
+470,2,Co-op,2,1,,"2440 Amsterdam Avenue, #5N",New York,NY,USA,Washington Heights
+471,6,Single Family,6,4,1,863 Riverside Drive,New York,NY,USA,Washington Heights
+472,4,Co-op,4,4,,"CASTLE VILLAGE, #40/48/49",New York,NY,USA,Hudson Heights
+473,4,Co-op,4,3,1,"140 Cabrini Boulevard 111-112, #111112",New York,NY,USA,Hudson Heights
+474,6,Single Family,6,4,,912 St Nicholas Avenue,New York,NY,USA,Washington Heights
+475,623,,623,,1,"THE RIVIERA, #11G",New York,NY,USA,Washington Heights
+476,15,Villas / Townhouses,15,6,1,546 West 165th Street,New York,NY,USA,Washington Heights
+477,6,Single Family,6,3,1,549 West 187th Street,New York,NY,USA,Washington Heights
+478,2,Single Family,2,2,1,11 Sylvan Terrace,New York,NY,USA,Washington Heights
+479,4,Co-op,4,3,,"800 Riverside Drive 6E, #6E",New York,NY,USA,Washington Heights
+480,623,,623,,,"AMMANN, #PH8A",New York,NY,USA,Hudson Heights
+481,578,Land/Lot,578,,2,5 Red Rock Island,San Francisco,CA,USA,San Francisco
+482,3,Condominium,3,3,2,"338 Spear Street, #35D",San Francisco,CA,USA,San Francisco
+483,2,Condominium,2,2,1,"239 Brannan Street, #10G",San Francisco,CA,USA,San Francisco
+484,2,Condominium,2,1,,211 Cole Street,San Francisco,CA,USA,San Francisco
+485,2,Condominium,2,1,2,209 Cole Street,San Francisco,CA,USA,San Francisco
+486,2,Condominium,2,2,,"72 Townsend Street, #402",San Francisco,CA,USA,San Francisco
+487,3,Single Family,3,2,2,509 Liberty Avenue,Brooklyn,NY,USA,East New York
+488,10,Single Family,10,4,1,321 Milford Street,Brooklyn,NY,USA,East New York
+489,9,Villas / Townhouses,9,6,,619 Emerald Street,Brooklyn,NY,USA,East New York
+490,10,Single Family,10,4,1,750 Glenmore Avenue,Brooklyn,NY,USA,East New York
+491,8,Single Family,8,3,2,297 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+492,6,Single Family,6,3,1,690 Vermont Street,Brooklyn,NY,USA,East New York
+493,7,Single Family,7,3,,427 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+494,4,Single Family,4,3,2,914 Pine Street,Brooklyn,NY,USA,East New York
+495,7,Single Family,7,3,,731 Wyona Street,Brooklyn,NY,USA,East New York
+496,2,Condominium,2,2,,Four Seasons Private Residences Lake Austin,Austin,TX,USA,Lake Austin
+497,1,Condo,1,1,2,"832 W Oakdale Ave Unit 1G,",Chicago,IL,USA,2.5% buyer's agent fee
+498,1,Condo,1,1,2,"819 E 53rd St #3,",Chicago,IL,USA,CHI - Hyde Park
+499,2,Condo,2,2,2,"3944 N Claremont Ave #307,",Chicago,IL,USA,Has A/C
+500,1,Condo,1,1,2,"1030 N State St Unit 41A,",Chicago,IL,USA,In-unit laundry (washer and dryer)
+501,1,Condo,1,15,2,"645 N Kingsbury St #1003,",Chicago,IL,USA,Has A/C
+502,3,Condo,3,2,2,"1159 N Hudson St Unit 1-101,",Chicago,IL,USA,Has A/C
+503,3,Single-family,3,2,2,"6502 34th Ave NW,",Seattle,WA,USA,Sunset Hill
+504,5,Single-family,5,4,2,"106 NW 101st St,",Seattle,WA,USA,Has A/C
+505,1,,1,1,2,"312 W 5th St #507,",Los Angeles,CA,USA,
+506,5,Single-family,5,3,2,"2458 Calle Tortuosa,",San Diego,CA,USA,2% buyer's agent fee
+507,3,Single-family,3,15,2,"15680 SE Wallace Rd,",Milwaukie,OR,USA,"145 - Milwaukie, Gladstone, Happy Valley, Clckmas, Dmscus, Estacada"
+508,2,Townhome,2,25,2,"4264 N Longview Ave,",Portland,OR,USA,OVERLOOK
+509,2,Condo,2,2,2,"1025 1st St SE #915,",Washington,DC,USA,Has A/C
+510,4,Townhome,4,35,2,"1210 Queen St NE #2,",Washington,DC,USA,Has A/C
+511,3,Single-family,3,3,2,"162 Southwood Dr,",San Francisco,CA,USA,
+512,3,Single-family,3,3,2,"219 Ralston St,",San Francisco,CA,USA,SF District 3
+513,3,Single-family,3,2,2,"5878 Macadam Ct,",SAN JOSE,CA,USA,2.5% buyer's agent fee
+514,4,Single-family,4,25,2,"4001 Silver Creek Rd,",SAN JOSE,CA,USA,0.25% buyer's agent fee
+515,2,Condo,2,2,2,"13604 Caldwell Dr #29,",Austin,TX,USA,Has A/C
+516,3,Single-family,3,2,2,"1615 Glencrest Dr,",Austin,TX,USA,In-unit laundry (washer and dryer)
+517,3,Single-family,3,2,2,"10668 Windrose Point Ave,",Las Vegas,NV,USA,Has A/C
+518,4,Single-family,4,3,2,"4617 Ashington St,",Las Vegas,NV,USA,Has A/C
+519,6,Single Family,6,5,1,1867 N Burling Street,Chicago,IL,USA,Lincoln Park
+520,10,Single Family,10,8,1,2026 N Kenmore Avenue,Chicago,IL,USA,Lincoln Park
+521,3,Condominium,3,4,1,"500 W Superior Street, #2703",Chicago,IL,USA,Near North Side
+522,6,Single Family,6,6,1,52 E BELLEVUE Place,Chicago,IL,USA,Near North Side
+523,5,Single Family,5,6,,1970 N Burling Street,Chicago,IL,USA,Lincoln Park
+524,6,Single Family,6,6,1,1521 N State Parkway,Chicago,IL,USA,Near North Side
+525,3,Condominium,3,3,2,"159 E WALTON Place, #31A",Chicago,IL,USA,Near North Side
+526,5,Single Family,5,5,,2325 N Cleveland Avenue,Chicago,IL,USA,Lincoln Park
+527,3,Condominium,3,3,,"159 E Walton Place, #22A",Chicago,IL,USA,Near North Side
+528,4,Condominium,4,4,2,"9 W Walton Street, #2902",Chicago,IL,USA,Near North Side
+529,5,Single Family,5,4,2,1856 N Mohawk Street,Chicago,IL,USA,Lincoln Park
+530,4,Single Family,4,4,1,401 W Dickens Avenue,Chicago,IL,USA,Lincoln Park
+531,6,Single Family,6,5,,362 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+532,9,Single Family,9,13,,10936 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+533,9,Estate,9,13,1,1859 Bel Air Rd,Los Angeles,CA,USA,Los Angeles
+534,6,Single Family,6,6,2,0 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+535,5,Estate,5,8,,1680 N Doheny Dr,Los Angeles,CA,USA,Los Angeles
+536,6,Single Family,6,9,2,615 N Faring Rd,Los Angeles,CA,USA,Los Angeles
+537,5,Single Family,5,6,2,10801 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+538,6,Single Family,6,4,1,1504 N Kenter Ave,Los Angeles,CA,USA,Los Angeles
+539,6,Single Family,6,7,1,1055 Stradella Rd,Los Angeles,CA,USA,Los Angeles
+540,32,multi-unit,32,42,1,2391 Roscomare Rd,Los Angeles,CA,USA,Los Angeles
+541,8,Single Family,8,12,1,10710 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+542,1,Single Family,1,1,2,2125 Puerto Del Mundo,CA,CA,USA,Fallbrook
+543,5,Single Family,5,4,,35 Payne,Portland,CT,USA,Portland
+544,2,Co-op,2,1,,"2440 Amsterdam Avenue, #5N",New York,NY,USA,Washington Heights
+545,6,Single Family,6,4,1,863 Riverside Drive,New York,NY,USA,Washington Heights
+546,4,Co-op,4,4,,"CASTLE VILLAGE, #40/48/49",New York,NY,USA,Hudson Heights
+547,4,Co-op,4,3,1,"140 Cabrini Boulevard 111-112, #111112",New York,NY,USA,Hudson Heights
+548,6,Single Family,6,4,,912 St Nicholas Avenue,New York,NY,USA,Washington Heights
+549,623,,623,,1,"THE RIVIERA, #11G",New York,NY,USA,Washington Heights
+550,15,Villas / Townhouses,15,6,1,546 West 165th Street,New York,NY,USA,Washington Heights
+551,6,Single Family,6,3,1,549 West 187th Street,New York,NY,USA,Washington Heights
+552,2,Single Family,2,2,1,11 Sylvan Terrace,New York,NY,USA,Washington Heights
+553,4,Co-op,4,3,,"800 Riverside Drive 6E, #6E",New York,NY,USA,Washington Heights
+554,623,,623,,,"AMMANN, #PH8A",New York,NY,USA,Hudson Heights
+555,578,Land/Lot,578,,2,5 Red Rock Island,San Francisco,CA,USA,San Francisco
+556,3,Condominium,3,3,2,"338 Spear Street, #35D",San Francisco,CA,USA,San Francisco
+557,2,Condominium,2,2,1,"239 Brannan Street, #10G",San Francisco,CA,USA,San Francisco
+558,2,Condominium,2,1,,211 Cole Street,San Francisco,CA,USA,San Francisco
+559,2,Condominium,2,1,2,209 Cole Street,San Francisco,CA,USA,San Francisco
+560,2,Condominium,2,2,,"72 Townsend Street, #402",San Francisco,CA,USA,San Francisco
+561,3,Single Family,3,2,2,509 Liberty Avenue,Brooklyn,NY,USA,East New York
+562,10,Single Family,10,4,1,321 Milford Street,Brooklyn,NY,USA,East New York
+563,9,Villas / Townhouses,9,6,,619 Emerald Street,Brooklyn,NY,USA,East New York
+564,10,Single Family,10,4,1,750 Glenmore Avenue,Brooklyn,NY,USA,East New York
+565,8,Single Family,8,3,2,297 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+566,6,Single Family,6,3,1,690 Vermont Street,Brooklyn,NY,USA,East New York
+567,7,Single Family,7,3,,427 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+568,4,Single Family,4,3,2,914 Pine Street,Brooklyn,NY,USA,East New York
+569,7,Single Family,7,3,,731 Wyona Street,Brooklyn,NY,USA,East New York
+570,2,Condominium,2,2,,Four Seasons Private Residences Lake Austin,Austin,TX,USA,Lake Austin
+571,1,Condo,1,1,2,"832 W Oakdale Ave Unit 1G,",Chicago,IL,USA,2.5% buyer's agent fee
+572,1,Condo,1,1,2,"819 E 53rd St #3,",Chicago,IL,USA,CHI - Hyde Park
+573,2,Condo,2,2,2,"3944 N Claremont Ave #307,",Chicago,IL,USA,Has A/C
+574,1,Condo,1,1,2,"1030 N State St Unit 41A,",Chicago,IL,USA,In-unit laundry (washer and dryer)
+575,1,Condo,1,15,2,"645 N Kingsbury St #1003,",Chicago,IL,USA,Has A/C
+576,3,Condo,3,2,2,"1159 N Hudson St Unit 1-101,",Chicago,IL,USA,Has A/C
+577,3,Single-family,3,2,2,"6502 34th Ave NW,",Seattle,WA,USA,Sunset Hill
+578,5,Single-family,5,4,2,"106 NW 101st St,",Seattle,WA,USA,Has A/C
+579,1,,1,1,2,"312 W 5th St #507,",Los Angeles,CA,USA,
+580,5,Single-family,5,3,2,"2458 Calle Tortuosa,",San Diego,CA,USA,2% buyer's agent fee
+581,3,Single-family,3,15,2,"15680 SE Wallace Rd,",Milwaukie,OR,USA,"145 - Milwaukie, Gladstone, Happy Valley, Clckmas, Dmscus, Estacada"
+582,2,Townhome,2,25,2,"4264 N Longview Ave,",Portland,OR,USA,OVERLOOK
+583,2,Condo,2,2,2,"1025 1st St SE #915,",Washington,DC,USA,Has A/C
+584,4,Townhome,4,35,2,"1210 Queen St NE #2,",Washington,DC,USA,Has A/C
+585,3,Single-family,3,3,2,"162 Southwood Dr,",San Francisco,CA,USA,
+586,3,Single-family,3,3,2,"219 Ralston St,",San Francisco,CA,USA,SF District 3
+587,3,Single-family,3,2,2,"5878 Macadam Ct,",SAN JOSE,CA,USA,2.5% buyer's agent fee
+588,4,Single-family,4,25,2,"4001 Silver Creek Rd,",SAN JOSE,CA,USA,0.25% buyer's agent fee
+589,2,Condo,2,2,2,"13604 Caldwell Dr #29,",Austin,TX,USA,Has A/C
+590,3,Single-family,3,2,2,"1615 Glencrest Dr,",Austin,TX,USA,In-unit laundry (washer and dryer)
+591,3,Single-family,3,2,2,"10668 Windrose Point Ave,",Las Vegas,NV,USA,Has A/C
+592,4,Single-family,4,3,2,"4617 Ashington St,",Las Vegas,NV,USA,Has A/C
+593,6,Single Family,6,5,1,1867 N Burling Street,Chicago,IL,USA,Lincoln Park
+594,10,Single Family,10,8,1,2026 N Kenmore Avenue,Chicago,IL,USA,Lincoln Park
+595,3,Condominium,3,4,1,"500 W Superior Street, #2703",Chicago,IL,USA,Near North Side
+596,6,Single Family,6,6,1,52 E BELLEVUE Place,Chicago,IL,USA,Near North Side
+597,5,Single Family,5,6,,1970 N Burling Street,Chicago,IL,USA,Lincoln Park
+598,6,Single Family,6,6,1,1521 N State Parkway,Chicago,IL,USA,Near North Side
+599,3,Condominium,3,3,2,"159 E WALTON Place, #31A",Chicago,IL,USA,Near North Side
+600,5,Single Family,5,5,,2325 N Cleveland Avenue,Chicago,IL,USA,Lincoln Park
+601,3,Condominium,3,3,,"159 E Walton Place, #22A",Chicago,IL,USA,Near North Side
+602,4,Condominium,4,4,2,"9 W Walton Street, #2902",Chicago,IL,USA,Near North Side
+603,5,Single Family,5,4,2,1856 N Mohawk Street,Chicago,IL,USA,Lincoln Park
+604,4,Single Family,4,4,1,401 W Dickens Avenue,Chicago,IL,USA,Lincoln Park
+605,6,Single Family,6,5,,362 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+606,9,Single Family,9,13,,10936 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+607,9,Estate,9,13,1,1859 Bel Air Rd,Los Angeles,CA,USA,Los Angeles
+608,6,Single Family,6,6,2,0 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+609,5,Estate,5,8,,1680 N Doheny Dr,Los Angeles,CA,USA,Los Angeles
+610,6,Single Family,6,9,2,615 N Faring Rd,Los Angeles,CA,USA,Los Angeles
+611,5,Single Family,5,6,2,10801 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+612,6,Single Family,6,4,1,1504 N Kenter Ave,Los Angeles,CA,USA,Los Angeles
+613,6,Single Family,6,7,1,1055 Stradella Rd,Los Angeles,CA,USA,Los Angeles
+614,32,multi-unit,32,42,1,2391 Roscomare Rd,Los Angeles,CA,USA,Los Angeles
+615,8,Single Family,8,12,1,10710 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+616,1,Single Family,1,1,2,2125 Puerto Del Mundo,CA,CA,USA,Fallbrook
+617,5,Single Family,5,4,,35 Payne,Portland,CT,USA,Portland
+618,2,Co-op,2,1,,"2440 Amsterdam Avenue, #5N",New York,NY,USA,Washington Heights
+619,6,Single Family,6,4,1,863 Riverside Drive,New York,NY,USA,Washington Heights
+620,4,Co-op,4,4,,"CASTLE VILLAGE, #40/48/49",New York,NY,USA,Hudson Heights
+621,4,Co-op,4,3,1,"140 Cabrini Boulevard 111-112, #111112",New York,NY,USA,Hudson Heights
+622,6,Single Family,6,4,,912 St Nicholas Avenue,New York,NY,USA,Washington Heights
+623,623,,623,,1,"THE RIVIERA, #11G",New York,NY,USA,Washington Heights
+624,15,Villas / Townhouses,15,6,1,546 West 165th Street,New York,NY,USA,Washington Heights
+625,6,Single Family,6,3,1,549 West 187th Street,New York,NY,USA,Washington Heights
+626,2,Single Family,2,2,1,11 Sylvan Terrace,New York,NY,USA,Washington Heights
+627,4,Co-op,4,3,,"800 Riverside Drive 6E, #6E",New York,NY,USA,Washington Heights
+628,623,,623,,,"AMMANN, #PH8A",New York,NY,USA,Hudson Heights
+629,578,Land/Lot,578,,2,5 Red Rock Island,San Francisco,CA,USA,San Francisco
+630,3,Condominium,3,3,2,"338 Spear Street, #35D",San Francisco,CA,USA,San Francisco
+631,2,Condominium,2,2,1,"239 Brannan Street, #10G",San Francisco,CA,USA,San Francisco
+632,2,Condominium,2,1,,211 Cole Street,San Francisco,CA,USA,San Francisco
+633,2,Condominium,2,1,2,209 Cole Street,San Francisco,CA,USA,San Francisco
+634,2,Condominium,2,2,,"72 Townsend Street, #402",San Francisco,CA,USA,San Francisco
+635,3,Single Family,3,2,2,509 Liberty Avenue,Brooklyn,NY,USA,East New York
+636,10,Single Family,10,4,1,321 Milford Street,Brooklyn,NY,USA,East New York
+637,9,Villas / Townhouses,9,6,,619 Emerald Street,Brooklyn,NY,USA,East New York
+638,10,Single Family,10,4,1,750 Glenmore Avenue,Brooklyn,NY,USA,East New York
+639,8,Single Family,8,3,2,297 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+640,6,Single Family,6,3,1,690 Vermont Street,Brooklyn,NY,USA,East New York
+641,7,Single Family,7,3,,427 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+642,4,Single Family,4,3,2,914 Pine Street,Brooklyn,NY,USA,East New York
+643,7,Single Family,7,3,,731 Wyona Street,Brooklyn,NY,USA,East New York
+644,2,Condominium,2,2,,Four Seasons Private Residences Lake Austin,Austin,TX,USA,Lake Austin
+645,1,Condo,1,1,2,"832 W Oakdale Ave Unit 1G,",Chicago,IL,USA,2.5% buyer's agent fee
+646,1,Condo,1,1,2,"819 E 53rd St #3,",Chicago,IL,USA,CHI - Hyde Park
+647,2,Condo,2,2,2,"3944 N Claremont Ave #307,",Chicago,IL,USA,Has A/C
+648,1,Condo,1,1,2,"1030 N State St Unit 41A,",Chicago,IL,USA,In-unit laundry (washer and dryer)
+649,1,Condo,1,15,2,"645 N Kingsbury St #1003,",Chicago,IL,USA,Has A/C
+650,3,Condo,3,2,2,"1159 N Hudson St Unit 1-101,",Chicago,IL,USA,Has A/C
+651,3,Single-family,3,2,2,"6502 34th Ave NW,",Seattle,WA,USA,Sunset Hill
+652,5,Single-family,5,4,2,"106 NW 101st St,",Seattle,WA,USA,Has A/C
+653,1,,1,1,2,"312 W 5th St #507,",Los Angeles,CA,USA,
+654,5,Single-family,5,3,2,"2458 Calle Tortuosa,",San Diego,CA,USA,2% buyer's agent fee
+655,3,Single-family,3,15,2,"15680 SE Wallace Rd,",Milwaukie,OR,USA,"145 - Milwaukie, Gladstone, Happy Valley, Clckmas, Dmscus, Estacada"
+656,2,Townhome,2,25,2,"4264 N Longview Ave,",Portland,OR,USA,OVERLOOK
+657,2,Condo,2,2,2,"1025 1st St SE #915,",Washington,DC,USA,Has A/C
+658,4,Townhome,4,35,2,"1210 Queen St NE #2,",Washington,DC,USA,Has A/C
+659,3,Single-family,3,3,2,"162 Southwood Dr,",San Francisco,CA,USA,
+660,3,Single-family,3,3,2,"219 Ralston St,",San Francisco,CA,USA,SF District 3
+661,3,Single-family,3,2,2,"5878 Macadam Ct,",SAN JOSE,CA,USA,2.5% buyer's agent fee
+662,4,Single-family,4,25,2,"4001 Silver Creek Rd,",SAN JOSE,CA,USA,0.25% buyer's agent fee
+663,2,Condo,2,2,2,"13604 Caldwell Dr #29,",Austin,TX,USA,Has A/C
+664,3,Single-family,3,2,2,"1615 Glencrest Dr,",Austin,TX,USA,In-unit laundry (washer and dryer)
+665,3,Single-family,3,2,2,"10668 Windrose Point Ave,",Las Vegas,NV,USA,Has A/C
+666,4,Single-family,4,3,2,"4617 Ashington St,",Las Vegas,NV,USA,Has A/C
+667,6,Single Family,6,5,1,1867 N Burling Street,Chicago,IL,USA,Lincoln Park
+668,10,Single Family,10,8,1,2026 N Kenmore Avenue,Chicago,IL,USA,Lincoln Park
+669,3,Condominium,3,4,1,"500 W Superior Street, #2703",Chicago,IL,USA,Near North Side
+670,6,Single Family,6,6,1,52 E BELLEVUE Place,Chicago,IL,USA,Near North Side
+671,5,Single Family,5,6,,1970 N Burling Street,Chicago,IL,USA,Lincoln Park
+672,6,Single Family,6,6,1,1521 N State Parkway,Chicago,IL,USA,Near North Side
+673,3,Condominium,3,3,2,"159 E WALTON Place, #31A",Chicago,IL,USA,Near North Side
+674,5,Single Family,5,5,,2325 N Cleveland Avenue,Chicago,IL,USA,Lincoln Park
+675,3,Condominium,3,3,,"159 E Walton Place, #22A",Chicago,IL,USA,Near North Side
+676,4,Condominium,4,4,2,"9 W Walton Street, #2902",Chicago,IL,USA,Near North Side
+677,5,Single Family,5,4,2,1856 N Mohawk Street,Chicago,IL,USA,Lincoln Park
+678,4,Single Family,4,4,1,401 W Dickens Avenue,Chicago,IL,USA,Lincoln Park
+679,6,Single Family,6,5,,362 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+680,9,Single Family,9,13,,10936 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+681,9,Estate,9,13,1,1859 Bel Air Rd,Los Angeles,CA,USA,Los Angeles
+682,6,Single Family,6,6,2,0 Copa De Oro Rd,Los Angeles,CA,USA,Los Angeles
+683,5,Estate,5,8,,1680 N Doheny Dr,Los Angeles,CA,USA,Los Angeles
+684,6,Single Family,6,9,2,615 N Faring Rd,Los Angeles,CA,USA,Los Angeles
+685,5,Single Family,5,6,2,10801 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+686,6,Single Family,6,4,1,1504 N Kenter Ave,Los Angeles,CA,USA,Los Angeles
+687,6,Single Family,6,7,1,1055 Stradella Rd,Los Angeles,CA,USA,Los Angeles
+688,32,multi-unit,32,42,1,2391 Roscomare Rd,Los Angeles,CA,USA,Los Angeles
+689,8,Single Family,8,12,1,10710 Chalon Rd,Los Angeles,CA,USA,Los Angeles
+690,1,Single Family,1,1,2,2125 Puerto Del Mundo,CA,CA,USA,Fallbrook
+691,5,Single Family,5,4,,35 Payne,Portland,CT,USA,Portland
+692,2,Co-op,2,1,,"2440 Amsterdam Avenue, #5N",New York,NY,USA,Washington Heights
+693,6,Single Family,6,4,1,863 Riverside Drive,New York,NY,USA,Washington Heights
+694,4,Co-op,4,4,,"CASTLE VILLAGE, #40/48/49",New York,NY,USA,Hudson Heights
+695,4,Co-op,4,3,1,"140 Cabrini Boulevard 111-112, #111112",New York,NY,USA,Hudson Heights
+696,6,Single Family,6,4,,912 St Nicholas Avenue,New York,NY,USA,Washington Heights
+697,623,,623,,1,"THE RIVIERA, #11G",New York,NY,USA,Washington Heights
+698,15,Villas / Townhouses,15,6,1,546 West 165th Street,New York,NY,USA,Washington Heights
+699,6,Single Family,6,3,1,549 West 187th Street,New York,NY,USA,Washington Heights
+700,2,Single Family,2,2,1,11 Sylvan Terrace,New York,NY,USA,Washington Heights
+701,4,Co-op,4,3,,"800 Riverside Drive 6E, #6E",New York,NY,USA,Washington Heights
+702,623,,623,,,"AMMANN, #PH8A",New York,NY,USA,Hudson Heights
+703,578,Land/Lot,578,,2,5 Red Rock Island,San Francisco,CA,USA,San Francisco
+704,3,Condominium,3,3,2,"338 Spear Street, #35D",San Francisco,CA,USA,San Francisco
+705,2,Condominium,2,2,1,"239 Brannan Street, #10G",San Francisco,CA,USA,San Francisco
+706,2,Condominium,2,1,,211 Cole Street,San Francisco,CA,USA,San Francisco
+707,2,Condominium,2,1,2,209 Cole Street,San Francisco,CA,USA,San Francisco
+708,2,Condominium,2,2,,"72 Townsend Street, #402",San Francisco,CA,USA,San Francisco
+709,3,Single Family,3,2,2,509 Liberty Avenue,Brooklyn,NY,USA,East New York
+710,10,Single Family,10,4,1,321 Milford Street,Brooklyn,NY,USA,East New York
+711,9,Villas / Townhouses,9,6,,619 Emerald Street,Brooklyn,NY,USA,East New York
+712,10,Single Family,10,4,1,750 Glenmore Avenue,Brooklyn,NY,USA,East New York
+713,8,Single Family,8,3,2,297 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+714,6,Single Family,6,3,1,690 Vermont Street,Brooklyn,NY,USA,East New York
+715,7,Single Family,7,3,,427 Pennsylvania Avenue,Brooklyn,NY,USA,East New York
+716,4,Single Family,4,3,2,914 Pine Street,Brooklyn,NY,USA,East New York
+717,7,Single Family,7,3,,731 Wyona Street,Brooklyn,NY,USA,East New York
+718,2,Condominium,2,2,,Four Seasons Private Residences Lake Austin,Austin,TX,USA,Lake Austin
+719,1,Condo,1,1,2,"832 W Oakdale Ave Unit 1G,",Chicago,IL,USA,2.5% buyer's agent fee
+720,1,Condo,1,1,2,"819 E 53rd St #3,",Chicago,IL,USA,CHI - Hyde Park
+721,2,Condo,2,2,2,"3944 N Claremont Ave #307,",Chicago,IL,USA,Has A/C
+722,1,Condo,1,1,2,"1030 N State St Unit 41A,",Chicago,IL,USA,In-unit laundry (washer and dryer)
+723,1,Condo,1,15,2,"645 N Kingsbury St #1003,",Chicago,IL,USA,Has A/C
+724,3,Condo,3,2,2,"1159 N Hudson St Unit 1-101,",Chicago,IL,USA,Has A/C
+725,3,Single-family,3,2,2,"6502 34th Ave NW,",Seattle,WA,USA,Sunset Hill
+726,5,Single-family,5,4,2,"106 NW 101st St,",Seattle,WA,USA,Has A/C
+727,1,,1,1,2,"312 W 5th St #507,",Los Angeles,CA,USA,
+728,5,Single-family,5,3,2,"2458 Calle Tortuosa,",San Diego,CA,USA,2% buyer's agent fee
+729,3,Single-family,3,15,2,"15680 SE Wallace Rd,",Milwaukie,OR,USA,"145 - Milwaukie, Gladstone, Happy Valley, Clckmas, Dmscus, Estacada"
+730,2,Townhome,2,25,2,"4264 N Longview Ave,",Portland,OR,USA,OVERLOOK
+731,2,Condo,2,2,2,"1025 1st St SE #915,",Washington,DC,USA,Has A/C
+732,4,Townhome,4,35,2,"1210 Queen St NE #2,",Washington,DC,USA,Has A/C
+733,3,Single-family,3,3,2,"162 Southwood Dr,",San Francisco,CA,USA,
+734,3,Single-family,3,3,2,"219 Ralston St,",San Francisco,CA,USA,SF District 3
+735,3,Single-family,3,2,2,"5878 Macadam Ct,",SAN JOSE,CA,USA,2.5% buyer's agent fee
+736,4,Single-family,4,25,2,"4001 Silver Creek Rd,",SAN JOSE,CA,USA,0.25% buyer's agent fee
+737,2,Condo,2,2,2,"13604 Caldwell Dr #29,",Austin,TX,USA,Has A/C
+738,3,Single-family,3,2,2,"1615 Glencrest Dr,",Austin,TX,USA,In-unit laundry (washer and dryer)
+739,3,Single-family,3,2,2,"10668 Windrose Point Ave,",Las Vegas,NV,USA,Has A/C
+740,4,Single-family,4,3,2,"4617 Ashington St,",Las Vegas,NV,USA,Has A/C

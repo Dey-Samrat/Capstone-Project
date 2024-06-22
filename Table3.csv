@@ -1,0 +1,741 @@
+Sno,Furnished,Facing,Parking,Ownership,Booking,Buy
+1,Fully Furnished,East,Yes,,2000000,10000000
+2,Semi Furnished,South,,,1999000,9995000
+3,Unfurnished,East,Yes,,1780000,8900000
+4,Fully Furnished,,Yes,,1580000,7900000
+5,Fully Furnished,North,Yes,,1555550,7777750
+6,,West,Yes,,1540000,7700000
+7,Semi Furnished,West,,,1500000,7500000
+8,Semi Furnished,,,,1470000,7350000
+9,Fully Furnished,South,,,1399000,6995000
+10,,East,Yes,,1395000,6975000
+11,Fully Furnished,North,,,1380000,6900000
+12,Unfurnished,East,Yes,,1318000,6590000
+13,Fully Furnished,East,Yes,,5397000,26985000
+14,Fully Furnished,North,,,23000000,115000000
+15,Fully Furnished,East,Yes,,11600000,58000000
+16,,South,Yes,,8994000,44970000
+17,Semi Furnished,East,Yes,,8600000,43000000
+18,Semi Furnished,,Yes,,7799000,38995000
+19,Unfurnished,North,Yes,,6780000,33900000
+20,Unfurnished,West,Yes,,6000000,30000000
+21,Unfurnished,West,Yes,,5990000,29950000
+22,Fully Furnished,,,,4999000,24995000
+23,Fully Furnished,South,,,4600000,23000000
+24,Fully Furnished,East,,,232000,1160000
+25,,North,,,399980,1999900
+26,,East,,,65000,325000
+27,Fully Furnished,East,Yes,,650000,3250000
+28,,North,,,559800,2799000
+29,Fully Furnished,East,Yes,,460000,2300000
+30,Fully Furnished,South,Yes,,439000,2195000
+31,Unfurnished,East,,,390000,1950000
+32,,,,,380000,1900000
+33,Semi Furnished,North,,,369800,1849000
+34,,West,Yes,,360000,1800000
+35,Fully Furnished,West,Yes,,359000,1795000
+36,,,,,305000,1525000
+37,Unfurnished,South,Yes,,5000000,25000000
+38,Unfurnished,East,Yes,,599000,2995000
+39,Semi Furnished,North,Yes,,359600,1798000
+40,Fully Furnished,East,Yes,,285000,1425000
+41,Fully Furnished,East,Yes,,265000,1325000
+42,Fully Furnished,North,Yes,,259000,1295000
+43,,,Yes,,470000,2350000
+44,Unfurnished,East,Yes,,280000,1400000
+45,Unfurnished,South,Yes,,270000,1350000
+46,Unfurnished,East,Yes,,250000,1250000
+47,Fully Furnished,,Yes,,210000,1050000
+48,,North,,,199600,998000
+49,Semi Furnished,West,,,185000,925000
+50,Fully Furnished,West,Yes,,171000,855000
+51,Fully Furnished,,Yes,,169000,845000
+52,,South,Yes,,150000,750000
+53,Fully Furnished,East,1 parking space,,5380020,269000
+54,Fully Furnished,North,In-unit laundry (washer and dryer),,3400020,170000
+55,Semi Furnished,East,$328 monthly HOA fee,,7700020,385000
+56,Fully Furnished,East,$547 monthly HOA fee,,6400020,320000
+57,Fully Furnished,North,$565 monthly HOA fee,,5798020,289900
+58,Unfurnished,East,$902 monthly HOA fee,,9999820,499990
+59,Unfurnished,East,1 garage space,,38980020,1949000
+60,Fully Furnished,East,$47 monthly HOA fee,,28500020,1425000
+61,Semi Furnished,East,,,8500020,425000
+62,Semi Furnished,South,1 garage spaces (8 total),,17960020,898000
+63,Semi Furnished,East,1 garage space,,21998020,1099900
+64,Semi Furnished,,Has A/C,,7398020,369900
+65,Fully Furnished,North,$698 monthly HOA fee,,15000020,750000
+66,Fully Furnished,West,$284 monthly HOA fee,,17000020,850000
+67,Unfurnished,West,Has garage,,27980020,1399000
+68,Unfurnished,,1 parking space,,27960020,1398000
+69,Fully Furnished,South,2 garage spaces,,19980020,999000
+70,Fully Furnished,East,2 garage spaces,,35980020,1799000
+71,Unfurnished,North,$210 monthly HOA fee,,7200020,360000
+72,Fully Furnished,East,2 garage spaces,,9500020,475000
+73,Semi Furnished,East,$65 monthly HOA fee,,9400020,470000
+74,Semi Furnished,North,$35 monthly HOA fee,,9640020,482000
+75,Fully Furnished,East,Yes,,2000000,10000000
+76,Semi Furnished,South,,,1999000,9995000
+77,Unfurnished,East,Yes,,1780000,8900000
+78,Fully Furnished,,Yes,,1580000,7900000
+79,Fully Furnished,North,Yes,,1555550,7777750
+80,,West,Yes,,1540000,7700000
+81,Semi Furnished,West,,,1500000,7500000
+82,Semi Furnished,,,,1470000,7350000
+83,Fully Furnished,South,,,1399000,6995000
+84,,East,Yes,,1395000,6975000
+85,Fully Furnished,North,,,1380000,6900000
+86,Unfurnished,East,Yes,,1318000,6590000
+87,Fully Furnished,East,Yes,,5397000,26985000
+88,Fully Furnished,North,,,23000000,115000000
+89,Fully Furnished,East,Yes,,11600000,58000000
+90,,South,Yes,,8994000,44970000
+91,Semi Furnished,East,Yes,,8600000,43000000
+92,Semi Furnished,,Yes,,7799000,38995000
+93,Unfurnished,North,Yes,,6780000,33900000
+94,Unfurnished,West,Yes,,6000000,30000000
+95,Unfurnished,West,Yes,,5990000,29950000
+96,Fully Furnished,,,,4999000,24995000
+97,Fully Furnished,South,,,4600000,23000000
+98,Fully Furnished,East,,,232000,1160000
+99,,North,,,399980,1999900
+100,,East,,,65000,325000
+101,Fully Furnished,East,Yes,,650000,3250000
+102,,North,,,559800,2799000
+103,Fully Furnished,East,Yes,,460000,2300000
+104,Fully Furnished,South,Yes,,439000,2195000
+105,Unfurnished,East,,,390000,1950000
+106,,,,,380000,1900000
+107,Semi Furnished,North,,,369800,1849000
+108,,West,Yes,,360000,1800000
+109,Fully Furnished,West,Yes,,359000,1795000
+110,,,,,305000,1525000
+111,Unfurnished,South,Yes,,5000000,25000000
+112,Unfurnished,East,Yes,,599000,2995000
+113,Semi Furnished,North,Yes,,359600,1798000
+114,Fully Furnished,East,Yes,,285000,1425000
+115,Fully Furnished,East,Yes,,265000,1325000
+116,Fully Furnished,North,Yes,,259000,1295000
+117,,,Yes,,470000,2350000
+118,Unfurnished,East,Yes,,280000,1400000
+119,Unfurnished,South,Yes,,270000,1350000
+120,Unfurnished,East,Yes,,250000,1250000
+121,Fully Furnished,,Yes,,210000,1050000
+122,,North,,,199600,998000
+123,Semi Furnished,West,,,185000,925000
+124,Fully Furnished,West,Yes,,171000,855000
+125,Fully Furnished,,Yes,,169000,845000
+126,,South,Yes,,150000,750000
+127,Fully Furnished,East,1 parking space,,5380020,269000
+128,Fully Furnished,North,In-unit laundry (washer and dryer),,3400020,170000
+129,Semi Furnished,East,$328 monthly HOA fee,,7700020,385000
+130,Fully Furnished,East,$547 monthly HOA fee,,6400020,320000
+131,Fully Furnished,North,$565 monthly HOA fee,,5798020,289900
+132,Unfurnished,East,$902 monthly HOA fee,,9999820,499990
+133,Unfurnished,East,1 garage space,,38980020,1949000
+134,Fully Furnished,East,$47 monthly HOA fee,,28500020,1425000
+135,Semi Furnished,East,,,8500020,425000
+136,Semi Furnished,South,1 garage spaces (8 total),,17960020,898000
+137,Semi Furnished,East,1 garage space,,21998020,1099900
+138,Semi Furnished,,Has A/C,,7398020,369900
+139,Fully Furnished,North,$698 monthly HOA fee,,15000020,750000
+140,Fully Furnished,West,$284 monthly HOA fee,,17000020,850000
+141,Unfurnished,West,Has garage,,27980020,1399000
+142,Unfurnished,,1 parking space,,27960020,1398000
+143,Fully Furnished,South,2 garage spaces,,19980020,999000
+144,Fully Furnished,East,2 garage spaces,,35980020,1799000
+145,Unfurnished,North,$210 monthly HOA fee,,7200020,360000
+146,Fully Furnished,East,2 garage spaces,,9500020,475000
+147,Semi Furnished,East,$65 monthly HOA fee,,9400020,470000
+148,Semi Furnished,North,$35 monthly HOA fee,,9640020,482000
+149,Fully Furnished,East,Yes,,2000000,10000000
+150,Semi Furnished,South,,,1999000,9995000
+151,Unfurnished,East,Yes,,1780000,8900000
+152,Fully Furnished,,Yes,,1580000,7900000
+153,Fully Furnished,North,Yes,,1555550,7777750
+154,,West,Yes,,1540000,7700000
+155,Semi Furnished,West,,,1500000,7500000
+156,Semi Furnished,,,,1470000,7350000
+157,Fully Furnished,South,,,1399000,6995000
+158,,East,Yes,,1395000,6975000
+159,Fully Furnished,North,,,1380000,6900000
+160,Unfurnished,East,Yes,,1318000,6590000
+161,Fully Furnished,East,Yes,,5397000,26985000
+162,Fully Furnished,North,,,23000000,115000000
+163,Fully Furnished,East,Yes,,11600000,58000000
+164,,South,Yes,,8994000,44970000
+165,Semi Furnished,East,Yes,,8600000,43000000
+166,Semi Furnished,,Yes,,7799000,38995000
+167,Unfurnished,North,Yes,,6780000,33900000
+168,Unfurnished,West,Yes,,6000000,30000000
+169,Unfurnished,West,Yes,,5990000,29950000
+170,Fully Furnished,,,,4999000,24995000
+171,Fully Furnished,South,,,4600000,23000000
+172,Fully Furnished,East,,,232000,1160000
+173,,North,,,399980,1999900
+174,,East,,,65000,325000
+175,Fully Furnished,East,Yes,,650000,3250000
+176,,North,,,559800,2799000
+177,Fully Furnished,East,Yes,,460000,2300000
+178,Fully Furnished,South,Yes,,439000,2195000
+179,Unfurnished,East,,,390000,1950000
+180,,,,,380000,1900000
+181,Semi Furnished,North,,,369800,1849000
+182,,West,Yes,,360000,1800000
+183,Fully Furnished,West,Yes,,359000,1795000
+184,,,,,305000,1525000
+185,Unfurnished,South,Yes,,5000000,25000000
+186,Unfurnished,East,Yes,,599000,2995000
+187,Semi Furnished,North,Yes,,359600,1798000
+188,Fully Furnished,East,Yes,,285000,1425000
+189,Fully Furnished,East,Yes,,265000,1325000
+190,Fully Furnished,North,Yes,,259000,1295000
+191,,,Yes,,470000,2350000
+192,Unfurnished,East,Yes,,280000,1400000
+193,Unfurnished,South,Yes,,270000,1350000
+194,Unfurnished,East,Yes,,250000,1250000
+195,Fully Furnished,,Yes,,210000,1050000
+196,,North,,,199600,998000
+197,Semi Furnished,West,,,185000,925000
+198,Fully Furnished,West,Yes,,171000,855000
+199,Fully Furnished,,Yes,,169000,845000
+200,,South,Yes,,150000,750000
+201,Fully Furnished,East,1 parking space,,5380020,269000
+202,Fully Furnished,North,In-unit laundry (washer and dryer),,3400020,170000
+203,Semi Furnished,East,$328 monthly HOA fee,,7700020,385000
+204,Fully Furnished,East,$547 monthly HOA fee,,6400020,320000
+205,Fully Furnished,North,$565 monthly HOA fee,,5798020,289900
+206,Unfurnished,East,$902 monthly HOA fee,,9999820,499990
+207,Unfurnished,East,1 garage space,,38980020,1949000
+208,Fully Furnished,East,$47 monthly HOA fee,,28500020,1425000
+209,Semi Furnished,East,,,8500020,425000
+210,Semi Furnished,South,1 garage spaces (8 total),,17960020,898000
+211,Semi Furnished,East,1 garage space,,21998020,1099900
+212,Semi Furnished,,Has A/C,,7398020,369900
+213,Fully Furnished,North,$698 monthly HOA fee,,15000020,750000
+214,Fully Furnished,West,$284 monthly HOA fee,,17000020,850000
+215,Unfurnished,West,Has garage,,27980020,1399000
+216,Unfurnished,,1 parking space,,27960020,1398000
+217,Fully Furnished,South,2 garage spaces,,19980020,999000
+218,Fully Furnished,East,2 garage spaces,,35980020,1799000
+219,Unfurnished,North,$210 monthly HOA fee,,7200020,360000
+220,Fully Furnished,East,2 garage spaces,,9500020,475000
+221,Semi Furnished,East,$65 monthly HOA fee,,9400020,470000
+222,Semi Furnished,North,$35 monthly HOA fee,,9640020,482000
+223,Fully Furnished,East,Yes,,2000000,10000000
+224,Semi Furnished,South,,,1999000,9995000
+225,Unfurnished,East,Yes,,1780000,8900000
+226,Fully Furnished,,Yes,,1580000,7900000
+227,Fully Furnished,North,Yes,,1555550,7777750
+228,,West,Yes,,1540000,7700000
+229,Semi Furnished,West,,,1500000,7500000
+230,Semi Furnished,,,,1470000,7350000
+231,Fully Furnished,South,,,1399000,6995000
+232,,East,Yes,,1395000,6975000
+233,Fully Furnished,North,,,1380000,6900000
+234,Unfurnished,East,Yes,,1318000,6590000
+235,Fully Furnished,East,Yes,,5397000,26985000
+236,Fully Furnished,North,,,23000000,115000000
+237,Fully Furnished,East,Yes,,11600000,58000000
+238,,South,Yes,,8994000,44970000
+239,Semi Furnished,East,Yes,,8600000,43000000
+240,Semi Furnished,,Yes,,7799000,38995000
+241,Unfurnished,North,Yes,,6780000,33900000
+242,Unfurnished,West,Yes,,6000000,30000000
+243,Unfurnished,West,Yes,,5990000,29950000
+244,Fully Furnished,,,,4999000,24995000
+245,Fully Furnished,South,,,4600000,23000000
+246,Fully Furnished,East,,,232000,1160000
+247,,North,,,399980,1999900
+248,,East,,,65000,325000
+249,Fully Furnished,East,Yes,,650000,3250000
+250,,North,,,559800,2799000
+251,Fully Furnished,East,Yes,,460000,2300000
+252,Fully Furnished,South,Yes,,439000,2195000
+253,Unfurnished,East,,,390000,1950000
+254,,,,,380000,1900000
+255,Semi Furnished,North,,,369800,1849000
+256,,West,Yes,,360000,1800000
+257,Fully Furnished,West,Yes,,359000,1795000
+258,,,,,305000,1525000
+259,Unfurnished,South,Yes,,5000000,25000000
+260,Unfurnished,East,Yes,,599000,2995000
+261,Semi Furnished,North,Yes,,359600,1798000
+262,Fully Furnished,East,Yes,,285000,1425000
+263,Fully Furnished,East,Yes,,265000,1325000
+264,Fully Furnished,North,Yes,,259000,1295000
+265,,,Yes,,470000,2350000
+266,Unfurnished,East,Yes,,280000,1400000
+267,Unfurnished,South,Yes,,270000,1350000
+268,Unfurnished,East,Yes,,250000,1250000
+269,Fully Furnished,,Yes,,210000,1050000
+270,,North,,,199600,998000
+271,Semi Furnished,West,,,185000,925000
+272,Fully Furnished,West,Yes,,171000,855000
+273,Fully Furnished,,Yes,,169000,845000
+274,,South,Yes,,150000,750000
+275,Fully Furnished,East,1 parking space,,5380020,269000
+276,Fully Furnished,North,In-unit laundry (washer and dryer),,3400020,170000
+277,Semi Furnished,East,$328 monthly HOA fee,,7700020,385000
+278,Fully Furnished,East,$547 monthly HOA fee,,6400020,320000
+279,Fully Furnished,North,$565 monthly HOA fee,,5798020,289900
+280,Unfurnished,East,$902 monthly HOA fee,,9999820,499990
+281,Unfurnished,East,1 garage space,,38980020,1949000
+282,Fully Furnished,East,$47 monthly HOA fee,,28500020,1425000
+283,Semi Furnished,East,,,8500020,425000
+284,Semi Furnished,South,1 garage spaces (8 total),,17960020,898000
+285,Semi Furnished,East,1 garage space,,21998020,1099900
+286,Semi Furnished,,Has A/C,,7398020,369900
+287,Fully Furnished,North,$698 monthly HOA fee,,15000020,750000
+288,Fully Furnished,West,$284 monthly HOA fee,,17000020,850000
+289,Unfurnished,West,Has garage,,27980020,1399000
+290,Unfurnished,,1 parking space,,27960020,1398000
+291,Fully Furnished,South,2 garage spaces,,19980020,999000
+292,Fully Furnished,East,2 garage spaces,,35980020,1799000
+293,Unfurnished,North,$210 monthly HOA fee,,7200020,360000
+294,Fully Furnished,East,2 garage spaces,,9500020,475000
+295,Semi Furnished,East,$65 monthly HOA fee,,9400020,470000
+296,Semi Furnished,North,$35 monthly HOA fee,,9640020,482000
+297,Fully Furnished,East,Yes,,2000000,10000000
+298,Semi Furnished,South,,,1999000,9995000
+299,Unfurnished,East,Yes,,1780000,8900000
+300,Fully Furnished,,Yes,,1580000,7900000
+301,Fully Furnished,North,Yes,,1555550,7777750
+302,,West,Yes,,1540000,7700000
+303,Semi Furnished,West,,,1500000,7500000
+304,Semi Furnished,,,,1470000,7350000
+305,Fully Furnished,South,,,1399000,6995000
+306,,East,Yes,,1395000,6975000
+307,Fully Furnished,North,,,1380000,6900000
+308,Unfurnished,East,Yes,,1318000,6590000
+309,Fully Furnished,East,Yes,,5397000,26985000
+310,Fully Furnished,North,,,23000000,115000000
+311,Fully Furnished,East,Yes,,11600000,58000000
+312,,South,Yes,,8994000,44970000
+313,Semi Furnished,East,Yes,,8600000,43000000
+314,Semi Furnished,,Yes,,7799000,38995000
+315,Unfurnished,North,Yes,,6780000,33900000
+316,Unfurnished,West,Yes,,6000000,30000000
+317,Unfurnished,West,Yes,,5990000,29950000
+318,Fully Furnished,,,,4999000,24995000
+319,Fully Furnished,South,,,4600000,23000000
+320,Fully Furnished,East,,,232000,1160000
+321,,North,,,399980,1999900
+322,,East,,,65000,325000
+323,Fully Furnished,East,Yes,,650000,3250000
+324,,North,,,559800,2799000
+325,Fully Furnished,East,Yes,,460000,2300000
+326,Fully Furnished,South,Yes,,439000,2195000
+327,Unfurnished,East,,,390000,1950000
+328,,,,,380000,1900000
+329,Semi Furnished,North,,,369800,1849000
+330,,West,Yes,,360000,1800000
+331,Fully Furnished,West,Yes,,359000,1795000
+332,,,,,305000,1525000
+333,Unfurnished,South,Yes,,5000000,25000000
+334,Unfurnished,East,Yes,,599000,2995000
+335,Semi Furnished,North,Yes,,359600,1798000
+336,Fully Furnished,East,Yes,,285000,1425000
+337,Fully Furnished,East,Yes,,265000,1325000
+338,Fully Furnished,North,Yes,,259000,1295000
+339,,,Yes,,470000,2350000
+340,Unfurnished,East,Yes,,280000,1400000
+341,Unfurnished,South,Yes,,270000,1350000
+342,Unfurnished,East,Yes,,250000,1250000
+343,Fully Furnished,,Yes,,210000,1050000
+344,,North,,,199600,998000
+345,Semi Furnished,West,,,185000,925000
+346,Fully Furnished,West,Yes,,171000,855000
+347,Fully Furnished,,Yes,,169000,845000
+348,,South,Yes,,150000,750000
+349,Fully Furnished,East,1 parking space,,5380020,269000
+350,Fully Furnished,North,In-unit laundry (washer and dryer),,3400020,170000
+351,Semi Furnished,East,$328 monthly HOA fee,,7700020,385000
+352,Fully Furnished,East,$547 monthly HOA fee,,6400020,320000
+353,Fully Furnished,North,$565 monthly HOA fee,,5798020,289900
+354,Unfurnished,East,$902 monthly HOA fee,,9999820,499990
+355,Unfurnished,East,1 garage space,,38980020,1949000
+356,Fully Furnished,East,$47 monthly HOA fee,,28500020,1425000
+357,Semi Furnished,East,,,8500020,425000
+358,Semi Furnished,South,1 garage spaces (8 total),,17960020,898000
+359,Semi Furnished,East,1 garage space,,21998020,1099900
+360,Semi Furnished,,Has A/C,,7398020,369900
+361,Fully Furnished,North,$698 monthly HOA fee,,15000020,750000
+362,Fully Furnished,West,$284 monthly HOA fee,,17000020,850000
+363,Unfurnished,West,Has garage,,27980020,1399000
+364,Unfurnished,,1 parking space,,27960020,1398000
+365,Fully Furnished,South,2 garage spaces,,19980020,999000
+366,Fully Furnished,East,2 garage spaces,,35980020,1799000
+367,Unfurnished,North,$210 monthly HOA fee,,7200020,360000
+368,Fully Furnished,East,2 garage spaces,,9500020,475000
+369,Semi Furnished,East,$65 monthly HOA fee,,9400020,470000
+370,Semi Furnished,North,$35 monthly HOA fee,,9640020,482000
+371,Fully Furnished,East,Yes,,2000000,10000000
+372,Semi Furnished,South,,,1999000,9995000
+373,Unfurnished,East,Yes,,1780000,8900000
+374,Fully Furnished,,Yes,,1580000,7900000
+375,Fully Furnished,North,Yes,,1555550,7777750
+376,,West,Yes,,1540000,7700000
+377,Semi Furnished,West,,,1500000,7500000
+378,Semi Furnished,,,,1470000,7350000
+379,Fully Furnished,South,,,1399000,6995000
+380,,East,Yes,,1395000,6975000
+381,Fully Furnished,North,,,1380000,6900000
+382,Unfurnished,East,Yes,,1318000,6590000
+383,Fully Furnished,East,Yes,,5397000,26985000
+384,Fully Furnished,North,,,23000000,115000000
+385,Fully Furnished,East,Yes,,11600000,58000000
+386,,South,Yes,,8994000,44970000
+387,Semi Furnished,East,Yes,,8600000,43000000
+388,Semi Furnished,,Yes,,7799000,38995000
+389,Unfurnished,North,Yes,,6780000,33900000
+390,Unfurnished,West,Yes,,6000000,30000000
+391,Unfurnished,West,Yes,,5990000,29950000
+392,Fully Furnished,,,,4999000,24995000
+393,Fully Furnished,South,,,4600000,23000000
+394,Fully Furnished,East,,,232000,1160000
+395,,North,,,399980,1999900
+396,,East,,,65000,325000
+397,Fully Furnished,East,Yes,,650000,3250000
+398,,North,,,559800,2799000
+399,Fully Furnished,East,Yes,,460000,2300000
+400,Fully Furnished,South,Yes,,439000,2195000
+401,Unfurnished,East,,,390000,1950000
+402,,,,,380000,1900000
+403,Semi Furnished,North,,,369800,1849000
+404,,West,Yes,,360000,1800000
+405,Fully Furnished,West,Yes,,359000,1795000
+406,,,,,305000,1525000
+407,Unfurnished,South,Yes,,5000000,25000000
+408,Unfurnished,East,Yes,,599000,2995000
+409,Semi Furnished,North,Yes,,359600,1798000
+410,Fully Furnished,East,Yes,,285000,1425000
+411,Fully Furnished,East,Yes,,265000,1325000
+412,Fully Furnished,North,Yes,,259000,1295000
+413,,,Yes,,470000,2350000
+414,Unfurnished,East,Yes,,280000,1400000
+415,Unfurnished,South,Yes,,270000,1350000
+416,Unfurnished,East,Yes,,250000,1250000
+417,Fully Furnished,,Yes,,210000,1050000
+418,,North,,,199600,998000
+419,Semi Furnished,West,,,185000,925000
+420,Fully Furnished,West,Yes,,171000,855000
+421,Fully Furnished,,Yes,,169000,845000
+422,,South,Yes,,150000,750000
+423,Fully Furnished,East,1 parking space,,5380020,269000
+424,Fully Furnished,North,In-unit laundry (washer and dryer),,3400020,170000
+425,Semi Furnished,East,$328 monthly HOA fee,,7700020,385000
+426,Fully Furnished,East,$547 monthly HOA fee,,6400020,320000
+427,Fully Furnished,North,$565 monthly HOA fee,,5798020,289900
+428,Unfurnished,East,$902 monthly HOA fee,,9999820,499990
+429,Unfurnished,East,1 garage space,,38980020,1949000
+430,Fully Furnished,East,$47 monthly HOA fee,,28500020,1425000
+431,Semi Furnished,East,,,8500020,425000
+432,Semi Furnished,South,1 garage spaces (8 total),,17960020,898000
+433,Semi Furnished,East,1 garage space,,21998020,1099900
+434,Semi Furnished,,Has A/C,,7398020,369900
+435,Fully Furnished,North,$698 monthly HOA fee,,15000020,750000
+436,Fully Furnished,West,$284 monthly HOA fee,,17000020,850000
+437,Unfurnished,West,Has garage,,27980020,1399000
+438,Unfurnished,,1 parking space,,27960020,1398000
+439,Fully Furnished,South,2 garage spaces,,19980020,999000
+440,Fully Furnished,East,2 garage spaces,,35980020,1799000
+441,Unfurnished,North,$210 monthly HOA fee,,7200020,360000
+442,Fully Furnished,East,2 garage spaces,,9500020,475000
+443,Semi Furnished,East,$65 monthly HOA fee,,9400020,470000
+444,Semi Furnished,North,$35 monthly HOA fee,,9640020,482000
+445,Fully Furnished,East,Yes,,2000000,10000000
+446,Semi Furnished,South,,,1999000,9995000
+447,Unfurnished,East,Yes,,1780000,8900000
+448,Fully Furnished,,Yes,,1580000,7900000
+449,Fully Furnished,North,Yes,,1555550,7777750
+450,,West,Yes,,1540000,7700000
+451,Semi Furnished,West,,,1500000,7500000
+452,Semi Furnished,,,,1470000,7350000
+453,Fully Furnished,South,,,1399000,6995000
+454,,East,Yes,,1395000,6975000
+455,Fully Furnished,North,,,1380000,6900000
+456,Unfurnished,East,Yes,,1318000,6590000
+457,Fully Furnished,East,Yes,,5397000,26985000
+458,Fully Furnished,North,,,23000000,115000000
+459,Fully Furnished,East,Yes,,11600000,58000000
+460,,South,Yes,,8994000,44970000
+461,Semi Furnished,East,Yes,,8600000,43000000
+462,Semi Furnished,,Yes,,7799000,38995000
+463,Unfurnished,North,Yes,,6780000,33900000
+464,Unfurnished,West,Yes,,6000000,30000000
+465,Unfurnished,West,Yes,,5990000,29950000
+466,Fully Furnished,,,,4999000,24995000
+467,Fully Furnished,South,,,4600000,23000000
+468,Fully Furnished,East,,,232000,1160000
+469,,North,,,399980,1999900
+470,,East,,,65000,325000
+471,Fully Furnished,East,Yes,,650000,3250000
+472,,North,,,559800,2799000
+473,Fully Furnished,East,Yes,,460000,2300000
+474,Fully Furnished,South,Yes,,439000,2195000
+475,Unfurnished,East,,,390000,1950000
+476,,,,,380000,1900000
+477,Semi Furnished,North,,,369800,1849000
+478,,West,Yes,,360000,1800000
+479,Fully Furnished,West,Yes,,359000,1795000
+480,,,,,305000,1525000
+481,Unfurnished,South,Yes,,5000000,25000000
+482,Unfurnished,East,Yes,,599000,2995000
+483,Semi Furnished,North,Yes,,359600,1798000
+484,Fully Furnished,East,Yes,,285000,1425000
+485,Fully Furnished,East,Yes,,265000,1325000
+486,Fully Furnished,North,Yes,,259000,1295000
+487,,,Yes,,470000,2350000
+488,Unfurnished,East,Yes,,280000,1400000
+489,Unfurnished,South,Yes,,270000,1350000
+490,Unfurnished,East,Yes,,250000,1250000
+491,Fully Furnished,,Yes,,210000,1050000
+492,,North,,,199600,998000
+493,Semi Furnished,West,,,185000,925000
+494,Fully Furnished,West,Yes,,171000,855000
+495,Fully Furnished,,Yes,,169000,845000
+496,,South,Yes,,150000,750000
+497,Fully Furnished,East,1 parking space,,5380020,269000
+498,Fully Furnished,North,In-unit laundry (washer and dryer),,3400020,170000
+499,Semi Furnished,East,$328 monthly HOA fee,,7700020,385000
+500,Fully Furnished,East,$547 monthly HOA fee,,6400020,320000
+501,Fully Furnished,North,$565 monthly HOA fee,,5798020,289900
+502,Unfurnished,East,$902 monthly HOA fee,,9999820,499990
+503,Unfurnished,East,1 garage space,,38980020,1949000
+504,Fully Furnished,East,$47 monthly HOA fee,,28500020,1425000
+505,Semi Furnished,East,,,8500020,425000
+506,Semi Furnished,South,1 garage spaces (8 total),,17960020,898000
+507,Semi Furnished,East,1 garage space,,21998020,1099900
+508,Semi Furnished,,Has A/C,,7398020,369900
+509,Fully Furnished,North,$698 monthly HOA fee,,15000020,750000
+510,Fully Furnished,West,$284 monthly HOA fee,,17000020,850000
+511,Unfurnished,West,Has garage,,27980020,1399000
+512,Unfurnished,,1 parking space,,27960020,1398000
+513,Fully Furnished,South,2 garage spaces,,19980020,999000
+514,Fully Furnished,East,2 garage spaces,,35980020,1799000
+515,Unfurnished,North,$210 monthly HOA fee,,7200020,360000
+516,Fully Furnished,East,2 garage spaces,,9500020,475000
+517,Semi Furnished,East,$65 monthly HOA fee,,9400020,470000
+518,Semi Furnished,North,$35 monthly HOA fee,,9640020,482000
+519,Fully Furnished,East,Yes,,2000000,10000000
+520,Semi Furnished,South,,,1999000,9995000
+521,Unfurnished,East,Yes,,1780000,8900000
+522,Fully Furnished,,Yes,,1580000,7900000
+523,Fully Furnished,North,Yes,,1555550,7777750
+524,,West,Yes,,1540000,7700000
+525,Semi Furnished,West,,,1500000,7500000
+526,Semi Furnished,,,,1470000,7350000
+527,Fully Furnished,South,,,1399000,6995000
+528,,East,Yes,,1395000,6975000
+529,Fully Furnished,North,,,1380000,6900000
+530,Unfurnished,East,Yes,,1318000,6590000
+531,Fully Furnished,East,Yes,,5397000,26985000
+532,Fully Furnished,North,,,23000000,115000000
+533,Fully Furnished,East,Yes,,11600000,58000000
+534,,South,Yes,,8994000,44970000
+535,Semi Furnished,East,Yes,,8600000,43000000
+536,Semi Furnished,,Yes,,7799000,38995000
+537,Unfurnished,North,Yes,,6780000,33900000
+538,Unfurnished,West,Yes,,6000000,30000000
+539,Unfurnished,West,Yes,,5990000,29950000
+540,Fully Furnished,,,,4999000,24995000
+541,Fully Furnished,South,,,4600000,23000000
+542,Fully Furnished,East,,,232000,1160000
+543,,North,,,399980,1999900
+544,,East,,,65000,325000
+545,Fully Furnished,East,Yes,,650000,3250000
+546,,North,,,559800,2799000
+547,Fully Furnished,East,Yes,,460000,2300000
+548,Fully Furnished,South,Yes,,439000,2195000
+549,Unfurnished,East,,,390000,1950000
+550,,,,,380000,1900000
+551,Semi Furnished,North,,,369800,1849000
+552,,West,Yes,,360000,1800000
+553,Fully Furnished,West,Yes,,359000,1795000
+554,,,,,305000,1525000
+555,Unfurnished,South,Yes,,5000000,25000000
+556,Unfurnished,East,Yes,,599000,2995000
+557,Semi Furnished,North,Yes,,359600,1798000
+558,Fully Furnished,East,Yes,,285000,1425000
+559,Fully Furnished,East,Yes,,265000,1325000
+560,Fully Furnished,North,Yes,,259000,1295000
+561,,,Yes,,470000,2350000
+562,Unfurnished,East,Yes,,280000,1400000
+563,Unfurnished,South,Yes,,270000,1350000
+564,Unfurnished,East,Yes,,250000,1250000
+565,Fully Furnished,,Yes,,210000,1050000
+566,,North,,,199600,998000
+567,Semi Furnished,West,,,185000,925000
+568,Fully Furnished,West,Yes,,171000,855000
+569,Fully Furnished,,Yes,,169000,845000
+570,,South,Yes,,150000,750000
+571,Fully Furnished,East,1 parking space,,5380020,269000
+572,Fully Furnished,North,In-unit laundry (washer and dryer),,3400020,170000
+573,Semi Furnished,East,$328 monthly HOA fee,,7700020,385000
+574,Fully Furnished,East,$547 monthly HOA fee,,6400020,320000
+575,Fully Furnished,North,$565 monthly HOA fee,,5798020,289900
+576,Unfurnished,East,$902 monthly HOA fee,,9999820,499990
+577,Unfurnished,East,1 garage space,,38980020,1949000
+578,Fully Furnished,East,$47 monthly HOA fee,,28500020,1425000
+579,Semi Furnished,East,,,8500020,425000
+580,Semi Furnished,South,1 garage spaces (8 total),,17960020,898000
+581,Semi Furnished,East,1 garage space,,21998020,1099900
+582,Semi Furnished,,Has A/C,,7398020,369900
+583,Fully Furnished,North,$698 monthly HOA fee,,15000020,750000
+584,Fully Furnished,West,$284 monthly HOA fee,,17000020,850000
+585,Unfurnished,West,Has garage,,27980020,1399000
+586,Unfurnished,,1 parking space,,27960020,1398000
+587,Fully Furnished,South,2 garage spaces,,19980020,999000
+588,Fully Furnished,East,2 garage spaces,,35980020,1799000
+589,Unfurnished,North,$210 monthly HOA fee,,7200020,360000
+590,Fully Furnished,East,2 garage spaces,,9500020,475000
+591,Semi Furnished,East,$65 monthly HOA fee,,9400020,470000
+592,Semi Furnished,North,$35 monthly HOA fee,,9640020,482000
+593,Fully Furnished,East,Yes,,2000000,10000000
+594,Semi Furnished,South,,,1999000,9995000
+595,Unfurnished,East,Yes,,1780000,8900000
+596,Fully Furnished,,Yes,,1580000,7900000
+597,Fully Furnished,North,Yes,,1555550,7777750
+598,,West,Yes,,1540000,7700000
+599,Semi Furnished,West,,,1500000,7500000
+600,Semi Furnished,,,,1470000,7350000
+601,Fully Furnished,South,,,1399000,6995000
+602,,East,Yes,,1395000,6975000
+603,Fully Furnished,North,,,1380000,6900000
+604,Unfurnished,East,Yes,,1318000,6590000
+605,Fully Furnished,East,Yes,,5397000,26985000
+606,Fully Furnished,North,,,23000000,115000000
+607,Fully Furnished,East,Yes,,11600000,58000000
+608,,South,Yes,,8994000,44970000
+609,Semi Furnished,East,Yes,,8600000,43000000
+610,Semi Furnished,,Yes,,7799000,38995000
+611,Unfurnished,North,Yes,,6780000,33900000
+612,Unfurnished,West,Yes,,6000000,30000000
+613,Unfurnished,West,Yes,,5990000,29950000
+614,Fully Furnished,,,,4999000,24995000
+615,Fully Furnished,South,,,4600000,23000000
+616,Fully Furnished,East,,,232000,1160000
+617,,North,,,399980,1999900
+618,,East,,,65000,325000
+619,Fully Furnished,East,Yes,,650000,3250000
+620,,North,,,559800,2799000
+621,Fully Furnished,East,Yes,,460000,2300000
+622,Fully Furnished,South,Yes,,439000,2195000
+623,Unfurnished,East,,,390000,1950000
+624,,,,,380000,1900000
+625,Semi Furnished,North,,,369800,1849000
+626,,West,Yes,,360000,1800000
+627,Fully Furnished,West,Yes,,359000,1795000
+628,,,,,305000,1525000
+629,Unfurnished,South,Yes,,5000000,25000000
+630,Unfurnished,East,Yes,,599000,2995000
+631,Semi Furnished,North,Yes,,359600,1798000
+632,Fully Furnished,East,Yes,,285000,1425000
+633,Fully Furnished,East,Yes,,265000,1325000
+634,Fully Furnished,North,Yes,,259000,1295000
+635,,,Yes,,470000,2350000
+636,Unfurnished,East,Yes,,280000,1400000
+637,Unfurnished,South,Yes,,270000,1350000
+638,Unfurnished,East,Yes,,250000,1250000
+639,Fully Furnished,,Yes,,210000,1050000
+640,,North,,,199600,998000
+641,Semi Furnished,West,,,185000,925000
+642,Fully Furnished,West,Yes,,171000,855000
+643,Fully Furnished,,Yes,,169000,845000
+644,,South,Yes,,150000,750000
+645,Fully Furnished,East,1 parking space,,5380020,269000
+646,Fully Furnished,North,In-unit laundry (washer and dryer),,3400020,170000
+647,Semi Furnished,East,$328 monthly HOA fee,,7700020,385000
+648,Fully Furnished,East,$547 monthly HOA fee,,6400020,320000
+649,Fully Furnished,North,$565 monthly HOA fee,,5798020,289900
+650,Unfurnished,East,$902 monthly HOA fee,,9999820,499990
+651,Unfurnished,East,1 garage space,,38980020,1949000
+652,Fully Furnished,East,$47 monthly HOA fee,,28500020,1425000
+653,Semi Furnished,East,,,8500020,425000
+654,Semi Furnished,South,1 garage spaces (8 total),,17960020,898000
+655,Semi Furnished,East,1 garage space,,21998020,1099900
+656,Semi Furnished,,Has A/C,,7398020,369900
+657,Fully Furnished,North,$698 monthly HOA fee,,15000020,750000
+658,Fully Furnished,West,$284 monthly HOA fee,,17000020,850000
+659,Unfurnished,West,Has garage,,27980020,1399000
+660,Unfurnished,,1 parking space,,27960020,1398000
+661,Fully Furnished,South,2 garage spaces,,19980020,999000
+662,Fully Furnished,East,2 garage spaces,,35980020,1799000
+663,Unfurnished,North,$210 monthly HOA fee,,7200020,360000
+664,Fully Furnished,East,2 garage spaces,,9500020,475000
+665,Semi Furnished,East,$65 monthly HOA fee,,9400020,470000
+666,Semi Furnished,North,$35 monthly HOA fee,,9640020,482000
+667,Fully Furnished,East,Yes,,2000000,10000000
+668,Semi Furnished,South,,,1999000,9995000
+669,Unfurnished,East,Yes,,1780000,8900000
+670,Fully Furnished,,Yes,,1580000,7900000
+671,Fully Furnished,North,Yes,,1555550,7777750
+672,,West,Yes,,1540000,7700000
+673,Semi Furnished,West,,,1500000,7500000
+674,Semi Furnished,,,,1470000,7350000
+675,Fully Furnished,South,,,1399000,6995000
+676,,East,Yes,,1395000,6975000
+677,Fully Furnished,North,,,1380000,6900000
+678,Unfurnished,East,Yes,,1318000,6590000
+679,Fully Furnished,East,Yes,,5397000,26985000
+680,Fully Furnished,North,,,23000000,115000000
+681,Fully Furnished,East,Yes,,11600000,58000000
+682,,South,Yes,,8994000,44970000
+683,Semi Furnished,East,Yes,,8600000,43000000
+684,Semi Furnished,,Yes,,7799000,38995000
+685,Unfurnished,North,Yes,,6780000,33900000
+686,Unfurnished,West,Yes,,6000000,30000000
+687,Unfurnished,West,Yes,,5990000,29950000
+688,Fully Furnished,,,,4999000,24995000
+689,Fully Furnished,South,,,4600000,23000000
+690,Fully Furnished,East,,,232000,1160000
+691,,North,,,399980,1999900
+692,,East,,,65000,325000
+693,Fully Furnished,East,Yes,,650000,3250000
+694,,North,,,559800,2799000
+695,Fully Furnished,East,Yes,,460000,2300000
+696,Fully Furnished,South,Yes,,439000,2195000
+697,Unfurnished,East,,,390000,1950000
+698,,,,,380000,1900000
+699,Semi Furnished,North,,,369800,1849000
+700,,West,Yes,,360000,1800000
+701,Fully Furnished,West,Yes,,359000,1795000
+702,,,,,305000,1525000
+703,Unfurnished,South,Yes,,5000000,25000000
+704,Unfurnished,East,Yes,,599000,2995000
+705,Semi Furnished,North,Yes,,359600,1798000
+706,Fully Furnished,East,Yes,,285000,1425000
+707,Fully Furnished,East,Yes,,265000,1325000
+708,Fully Furnished,North,Yes,,259000,1295000
+709,,,Yes,,470000,2350000
+710,Unfurnished,East,Yes,,280000,1400000
+711,Unfurnished,South,Yes,,270000,1350000
+712,Unfurnished,East,Yes,,250000,1250000
+713,Fully Furnished,,Yes,,210000,1050000
+714,,North,,,199600,998000
+715,Semi Furnished,West,,,185000,925000
+716,Fully Furnished,West,Yes,,171000,855000
+717,Fully Furnished,,Yes,,169000,845000
+718,,South,Yes,,150000,750000
+719,Fully Furnished,East,1 parking space,,5380020,269000
+720,Fully Furnished,North,In-unit laundry (washer and dryer),,3400020,170000
+721,Semi Furnished,East,$328 monthly HOA fee,,7700020,385000
+722,Fully Furnished,East,$547 monthly HOA fee,,6400020,320000
+723,Fully Furnished,North,$565 monthly HOA fee,,5798020,289900
+724,Unfurnished,East,$902 monthly HOA fee,,9999820,499990
+725,Unfurnished,East,1 garage space,,38980020,1949000
+726,Fully Furnished,East,$47 monthly HOA fee,,28500020,1425000
+727,Semi Furnished,East,,,8500020,425000
+728,Semi Furnished,South,1 garage spaces (8 total),,17960020,898000
+729,Semi Furnished,East,1 garage space,,21998020,1099900
+730,Semi Furnished,,Has A/C,,7398020,369900
+731,Fully Furnished,North,$698 monthly HOA fee,,15000020,750000
+732,Fully Furnished,West,$284 monthly HOA fee,,17000020,850000
+733,Unfurnished,West,Has garage,,27980020,1399000
+734,Unfurnished,,1 parking space,,27960020,1398000
+735,Fully Furnished,South,2 garage spaces,,19980020,999000
+736,Fully Furnished,East,2 garage spaces,,35980020,1799000
+737,Unfurnished,North,$210 monthly HOA fee,,7200020,360000
+738,Fully Furnished,East,2 garage spaces,,9500020,475000
+739,Semi Furnished,East,$65 monthly HOA fee,,9400020,470000
+740,Semi Furnished,North,$35 monthly HOA fee,,9640020,482000
